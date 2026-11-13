@@ -1,0 +1,1395 @@
+[
+  {
+    "page": 2,
+    "total": 383,
+    "items": [
+      {
+        "repository": "HellThrall2000/more-than-a-hack-2027",
+        "path": "starter/baseline.py",
+        "url": "https://github.com/HellThrall2000/more-than-a-hack-2027/blob/4ce68bcc50e03af22ba9366e68bf18464a58d275/starter/baseline.py"
+      },
+      {
+        "repository": "danieltyukov/more-than-a-hack-2027",
+        "path": "starter/baseline.py",
+        "url": "https://github.com/danieltyukov/more-than-a-hack-2027/blob/3ef24dc2b15fc560fe1d3f05f75b842b8606e8e6/starter/baseline.py"
+      },
+      {
+        "repository": "Nunopdmp/LaMassita",
+        "path": "starter/baseline.py",
+        "url": "https://github.com/Nunopdmp/LaMassita/blob/57739f51c0066de11f2c546580392e3ce94c0f16/starter/baseline.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "starter/baseline.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/starter/baseline.py"
+      },
+      {
+        "repository": "alperglcoglu/Barcelona-Hackathon",
+        "path": "possession/config.py",
+        "url": "https://github.com/alperglcoglu/Barcelona-Hackathon/blob/b3bf213c918b9c28b955dddd0ecf93d360ef5f16/possession/config.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/evaluate_physics_context.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/evaluate_physics_context.py"
+      },
+      {
+        "repository": "YonoBengkel/barcelona",
+        "path": "scripts/check_baselines.py",
+        "url": "https://github.com/YonoBengkel/barcelona/blob/4132e6db5273e39c538af96937f7888cb60300bf/scripts/check_baselines.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/finalize_temporal_validation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/finalize_temporal_validation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/finalize_boundary_refinement.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/finalize_boundary_refinement.py"
+      },
+      {
+        "repository": "sirozhiddinovv/more-than-a-hack-2027-solution",
+        "path": "starter/optimize_lgbm_pipeline.py",
+        "url": "https://github.com/sirozhiddinovv/more-than-a-hack-2027-solution/blob/b8541d0b9f41d52197cd9fc7d72cadef29a4c320/starter/optimize_lgbm_pipeline.py"
+      },
+      {
+        "repository": "Mvnshi/plog-submission-2027",
+        "path": "plog/synthetic.py",
+        "url": "https://github.com/Mvnshi/plog-submission-2027/blob/b5a81c1898a54c3b670dda52220a43723460aaa5/plog/synthetic.py"
+      },
+      {
+        "repository": "coderhema/Barca-FC-MTAH",
+        "path": "baseline.py",
+        "url": "https://github.com/coderhema/Barca-FC-MTAH/blob/463c1b558bfedb8ff6abe387cd9f057b67751de1/baseline.py"
+      },
+      {
+        "repository": "bassem97/syntaxeror-mtah2027",
+        "path": "analysis/fit_oos.py",
+        "url": "https://github.com/bassem97/syntaxeror-mtah2027/blob/315acffa6ec9edfdb9f4000214da324405cb653a/analysis/fit_oos.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_spurious_possessions.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_spurious_possessions.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/finalize_endpoint_calibration.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/finalize_endpoint_calibration.py"
+      },
+      {
+        "repository": "OgayoTK1/possession-intelligence",
+        "path": "mtah-possession/scripts/_common.py",
+        "url": "https://github.com/OgayoTK1/possession-intelligence/blob/063f5fbb07e01ee420892dc1dcfa58b2c8f3fc7e/mtah-possession/scripts/_common.py"
+      },
+      {
+        "repository": "Mrazakos/weight-space-dotnet",
+        "path": "experiment/harness/figures.py",
+        "url": "https://github.com/Mrazakos/weight-space-dotnet/blob/5aeeab9bbad2bb31d5656079c63fa9ad0cb78433/experiment/harness/figures.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_broadcast_short_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_broadcast_short_candidate.py"
+      },
+      {
+        "repository": "HellThrall2000/more-than-a-hack-2027",
+        "path": "possession/run.py",
+        "url": "https://github.com/HellThrall2000/more-than-a-hack-2027/blob/4ce68bcc50e03af22ba9366e68bf18464a58d275/possession/run.py"
+      },
+      {
+        "repository": "bh-14/more-than-a-hack-2027",
+        "path": "possession/decode/viterbi.py",
+        "url": "https://github.com/bh-14/more-than-a-hack-2027/blob/30d24bdac21992d8257aa7eeb9f99407e0399e12/possession/decode/viterbi.py"
+      },
+      {
+        "repository": "fcb10har1/TIKI-DATA",
+        "path": "p3/decoder.py",
+        "url": "https://github.com/fcb10har1/TIKI-DATA/blob/6653d0dcb1bc58ea4910a86912e6b095e8bc51d7/p3/decoder.py"
+      },
+      {
+        "repository": "HellThrall2000/more-than-a-hack-2027",
+        "path": "starter/make_dummy_submission.py",
+        "url": "https://github.com/HellThrall2000/more-than-a-hack-2027/blob/4ce68bcc50e03af22ba9366e68bf18464a58d275/starter/make_dummy_submission.py"
+      },
+      {
+        "repository": "danieltyukov/more-than-a-hack-2027",
+        "path": "starter/make_dummy_submission.py",
+        "url": "https://github.com/danieltyukov/more-than-a-hack-2027/blob/3ef24dc2b15fc560fe1d3f05f75b842b8606e8e6/starter/make_dummy_submission.py"
+      },
+      {
+        "repository": "Nunopdmp/LaMassita",
+        "path": "starter/make_dummy_submission.py",
+        "url": "https://github.com/Nunopdmp/LaMassita/blob/57739f51c0066de11f2c546580392e3ce94c0f16/starter/make_dummy_submission.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "starter/make_dummy_submission.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/starter/make_dummy_submission.py"
+      },
+      {
+        "repository": "OgayoTK1/possession-intelligence",
+        "path": "mtah-possession/scripts/make_tables.py",
+        "url": "https://github.com/OgayoTK1/possession-intelligence/blob/063f5fbb07e01ee420892dc1dcfa58b2c8f3fc7e/mtah-possession/scripts/make_tables.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "structured_possession/calibrate.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/structured_possession/calibrate.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "possession/decode.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/possession/decode.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-submission",
+        "path": "dfl_submission/vendor_trial.py",
+        "url": "https://github.com/Derekko-web/mtah2027-submission/blob/7a060b97ba867035891521ec06870cc2d8e540fb/dfl_submission/vendor_trial.py"
+      },
+      {
+        "repository": "YonoBengkel/barcelona",
+        "path": "scripts/make_submission.py",
+        "url": "https://github.com/YonoBengkel/barcelona/blob/4132e6db5273e39c538af96937f7888cb60300bf/scripts/make_submission.py"
+      },
+      {
+        "repository": "PetricaNancu/ball-possession-barca-hackathon",
+        "path": "scripts/build_corpus.py",
+        "url": "https://github.com/PetricaNancu/ball-possession-barca-hackathon/blob/a7a519acabbb89cc6e6516bd84b057b526ed44f6/scripts/build_corpus.py"
+      },
+      {
+        "repository": "ouyang1030/metrichack",
+        "path": "harness/train_v1.py",
+        "url": "https://github.com/ouyang1030/metrichack/blob/b00400834b8295225575e47e0b2fe8907a6e6ea6/harness/train_v1.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_short_possession_repair.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_short_possession_repair.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/sequence_diagnostics.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/sequence_diagnostics.py"
+      },
+      {
+        "repository": "ouyang1030/metrichack",
+        "path": "harness/train_v2.py",
+        "url": "https://github.com/ouyang1030/metrichack/blob/b00400834b8295225575e47e0b2fe8907a6e6ea6/harness/train_v2.py"
+      },
+      {
+        "repository": "PetricaNancu/ball-possession-barca-hackathon",
+        "path": "scripts/train.py",
+        "url": "https://github.com/PetricaNancu/ball-possession-barca-hackathon/blob/a7a519acabbb89cc6e6516bd84b057b526ed44f6/scripts/train.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_objectives.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_objectives.py"
+      },
+      {
+        "repository": "LinLyra/Mes_Que_XI_Submission",
+        "path": "solution/sequence_v13.py",
+        "url": "https://github.com/LinLyra/Mes_Que_XI_Submission/blob/f409e5f6943e40c27378d6cef098c4f83d276752/solution/sequence_v13.py"
+      },
+      {
+        "repository": "mustafa3rsan/possession-bruin-pipeline",
+        "path": "possession/assets/degerlendirme/son_spell_f1.py",
+        "url": "https://github.com/mustafa3rsan/possession-bruin-pipeline/blob/10207d63f990083cc11e3914788e3ef5db7afc1e/possession/assets/degerlendirme/son_spell_f1.py"
+      },
+      {
+        "repository": "alperglcoglu/Barcelona-Hackathon",
+        "path": "possession/hmm.py",
+        "url": "https://github.com/alperglcoglu/Barcelona-Hackathon/blob/b3bf213c918b9c28b955dddd0ecf93d360ef5f16/possession/hmm.py"
+      },
+      {
+        "repository": "HellThrall2000/more-than-a-hack-2027",
+        "path": "evaluation/run_evaluation.py",
+        "url": "https://github.com/HellThrall2000/more-than-a-hack-2027/blob/4ce68bcc50e03af22ba9366e68bf18464a58d275/evaluation/run_evaluation.py"
+      },
+      {
+        "repository": "danieltyukov/more-than-a-hack-2027",
+        "path": "evaluation/run_evaluation.py",
+        "url": "https://github.com/danieltyukov/more-than-a-hack-2027/blob/3ef24dc2b15fc560fe1d3f05f75b842b8606e8e6/evaluation/run_evaluation.py"
+      },
+      {
+        "repository": "Nunopdmp/LaMassita",
+        "path": "evaluation/run_evaluation.py",
+        "url": "https://github.com/Nunopdmp/LaMassita/blob/57739f51c0066de11f2c546580392e3ce94c0f16/evaluation/run_evaluation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "evaluation/run_evaluation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/evaluation/run_evaluation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_temporal_decoding.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_temporal_decoding.py"
+      },
+      {
+        "repository": "Xiangxi-Wang-1/mtah_sit-",
+        "path": "possession/config.py",
+        "url": "https://github.com/Xiangxi-Wang-1/mtah_sit-/blob/735502706dffc0a93f199659edcfbf78e6f2f591/possession/config.py"
+      },
+      {
+        "repository": "NaufalFahrozi/more-than-a-hack-2027",
+        "path": "src/models/temporal_smoother.py",
+        "url": "https://github.com/NaufalFahrozi/more-than-a-hack-2027/blob/9a5bc46495f83e062cb15e9e44a7a307b7354d28/src/models/temporal_smoother.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "relational_possession/experiment.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/relational_possession/experiment.py"
+      },
+      {
+        "repository": "micheledeantoni/possesso-calcio",
+        "path": "src/team_features.py",
+        "url": "https://github.com/micheledeantoni/possesso-calcio/blob/3b8a878993d105bd952a587af6112b54e92d485e/src/team_features.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_guarded_boundaries.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_guarded_boundaries.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_temporal_fusion.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_temporal_fusion.py"
+      },
+      {
+        "repository": "bassem97/syntaxeror-mtah2027",
+        "path": "possession/learned.py",
+        "url": "https://github.com/bassem97/syntaxeror-mtah2027/blob/315acffa6ec9edfdb9f4000214da324405cb653a/possession/learned.py"
+      },
+      {
+        "repository": "Mrazakos/weight-space-dotnet",
+        "path": "tools/export_demo_data.py",
+        "url": "https://github.com/Mrazakos/weight-space-dotnet/blob/5aeeab9bbad2bb31d5656079c63fa9ad0cb78433/tools/export_demo_data.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "dfl_submission/robust.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/dfl_submission/robust.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-submission",
+        "path": "dfl_submission/robust.py",
+        "url": "https://github.com/Derekko-web/mtah2027-submission/blob/7a060b97ba867035891521ec06870cc2d8e540fb/dfl_submission/robust.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/boundary_risk.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/boundary_risk.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_boundary_risk.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_boundary_risk.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_home_boundaries.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_home_boundaries.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/promote_stoppage_fragment_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/promote_stoppage_fragment_candidate.py"
+      },
+      {
+        "repository": "sirozhiddinovv/more-than-a-hack-2027-solution",
+        "path": "starter/hmm_smoother.py",
+        "url": "https://github.com/sirozhiddinovv/more-than-a-hack-2027-solution/blob/b8541d0b9f41d52197cd9fc7d72cadef29a4c320/starter/hmm_smoother.py"
+      },
+      {
+        "repository": "ramith001/more-than-a-hack-2027-submission",
+        "path": "notes/evidence/team_evidence_features.py",
+        "url": "https://github.com/ramith001/more-than-a-hack-2027-submission/blob/42b512c125723184dbcabc98ad2aa1c51b09cc22/notes/evidence/team_evidence_features.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_ball_dropout.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_ball_dropout.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_tabicl_native.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_tabicl_native.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/prepare_tabpfn35_comparison.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/prepare_tabpfn35_comparison.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_dfl_public.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_dfl_public.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_temporal_control.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_temporal_control.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "foundation_possession/pilot.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/foundation_possession/pilot.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_pair_event_symmetry.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_pair_event_symmetry.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_new_camera_control.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_new_camera_control.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_broadcast_intersection.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_broadcast_intersection.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_jersey_ownership.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_jersey_ownership.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_ownership_graph.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_ownership_graph.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "temporal_possession/experiment.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/temporal_possession/experiment.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_holdout_repair_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_holdout_repair_candidate.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "src/external_benchmark.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/src/external_benchmark.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_guarded_boundary_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_guarded_boundary_candidate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_broadcast_source_intervals.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_broadcast_source_intervals.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_control_renewal.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_control_renewal.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_kernel_svm_native.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_kernel_svm_native.py"
+      },
+      {
+        "repository": "hannannoor/messis-foot",
+        "path": "football_pipeline.py",
+        "url": "https://github.com/hannannoor/messis-foot/blob/3a1c8608e050e2f812826719e1af882d87cf2f67/football_pipeline.py"
+      },
+      {
+        "repository": "HellThrall2000/more-than-a-hack-2027",
+        "path": "evaluation/possession_metrics.py",
+        "url": "https://github.com/HellThrall2000/more-than-a-hack-2027/blob/4ce68bcc50e03af22ba9366e68bf18464a58d275/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "danieltyukov/more-than-a-hack-2027",
+        "path": "evaluation/possession_metrics.py",
+        "url": "https://github.com/danieltyukov/more-than-a-hack-2027/blob/3ef24dc2b15fc560fe1d3f05f75b842b8606e8e6/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "Nunopdmp/LaMassita",
+        "path": "evaluation/possession_metrics.py",
+        "url": "https://github.com/Nunopdmp/LaMassita/blob/57739f51c0066de11f2c546580392e3ce94c0f16/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "evaluation/possession_metrics.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_stoppage_context.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_stoppage_context.py"
+      },
+      {
+        "repository": "ramith001/more-than-a-hack-2027-submission",
+        "path": "notes/bench_audit_scripts/dfl_recheck.py",
+        "url": "https://github.com/ramith001/more-than-a-hack-2027-submission/blob/42b512c125723184dbcabc98ad2aa1c51b09cc22/notes/bench_audit_scripts/dfl_recheck.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_boundary_refinement.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_boundary_refinement.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_stoppage_fragments.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_stoppage_fragments.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "src/experiment_pipeline.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/src/experiment_pipeline.py"
+      },
+      {
+        "repository": "avi1967/More-Than-A-Hack",
+        "path": "solution/mtah_possession/model.py",
+        "url": "https://github.com/avi1967/More-Than-A-Hack/blob/3a92e4e0e88e80be467f81ef615c8b0fce808491/solution/mtah_possession/model.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_tabpfn_full_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_tabpfn_full_candidate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_endpoint_calibration.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_endpoint_calibration.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_tabpfn_full_candidate_v2.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_tabpfn_full_candidate_v2.py"
+      },
+      {
+        "repository": "NEXE-sudo/More-Than-A-Hack-2026",
+        "path": "src/possession/evaluation/reproducibility.py",
+        "url": "https://github.com/NEXE-sudo/More-Than-A-Hack-2026/blob/c71d8c6fdb2c46cfa42a9a8c11f2389b5c0201db/src/possession/evaluation/reproducibility.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_detector_ledger.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_detector_ledger.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_broadcast_promotion.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_broadcast_promotion.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_human_annotation_training.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_human_annotation_training.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_boundary_refinement.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_boundary_refinement.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_native_encoder_continuation_extended.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_native_encoder_continuation_extended.py"
+      },
+      {
+        "repository": "falafelona/more-than-a-hack-2027",
+        "path": "tests/test_devset.py",
+        "url": "https://github.com/falafelona/more-than-a-hack-2027/blob/c5ec1785d21ab8e261b42e8eddb63b7a041ba1fe/tests/test_devset.py"
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "total": 383,
+    "items": [
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_short_precision.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_short_precision.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_gaussian_process_native.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_gaussian_process_native.py"
+      },
+      {
+        "repository": "micheledeantoni/possesso-calcio",
+        "path": "docs/audit_drive/scripts/baseline_metrica.py",
+        "url": "https://github.com/micheledeantoni/possesso-calcio/blob/3b8a878993d105bd952a587af6112b54e92d485e/docs/audit_drive/scripts/baseline_metrica.py"
+      },
+      {
+        "repository": "fcb10har1/TIKI-DATA",
+        "path": "tiki_data/p2/speed_ablation.py",
+        "url": "https://github.com/fcb10har1/TIKI-DATA/blob/6653d0dcb1bc58ea4910a86912e6b095e8bc51d7/tiki_data/p2/speed_ablation.py"
+      },
+      {
+        "repository": "aqaPayam/Barca4Ever",
+        "path": "write_external_report.py",
+        "url": "https://github.com/aqaPayam/Barca4Ever/blob/186d20400ada06cdad8fc416d2592b88300fbf40/write_external_report.py"
+      },
+      {
+        "repository": "Xiangxi-Wang-1/mtah_sit-",
+        "path": "possession/layer5_sequence_decoder/evaluate.py",
+        "url": "https://github.com/Xiangxi-Wang-1/mtah_sit-/blob/735502706dffc0a93f199659edcfbf78e6f2f591/possession/layer5_sequence_decoder/evaluate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/finalize_tabpfn_full_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/finalize_tabpfn_full_candidate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_short_possession_repair.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_short_possession_repair.py"
+      },
+      {
+        "repository": "avi1967/More-Than-A-Hack",
+        "path": "solution/run_synthetic_benchmark.py",
+        "url": "https://github.com/avi1967/More-Than-A-Hack/blob/3a92e4e0e88e80be467f81ef615c8b0fce808491/solution/run_synthetic_benchmark.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_stoppages.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_stoppages.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_broadcast_short_envelope.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_broadcast_short_envelope.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/promote_holdout_repair_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/promote_holdout_repair_candidate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "dfl_submission/train.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/dfl_submission/train.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-submission",
+        "path": "dfl_submission/train.py",
+        "url": "https://github.com/Derekko-web/mtah2027-submission/blob/7a060b97ba867035891521ec06870cc2d8e540fb/dfl_submission/train.py"
+      },
+      {
+        "repository": "ramith001/more-than-a-hack-2027-submission",
+        "path": "possession/validate.py",
+        "url": "https://github.com/ramith001/more-than-a-hack-2027-submission/blob/42b512c125723184dbcabc98ad2aa1c51b09cc22/possession/validate.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "possession/evidence.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/possession/evidence.py"
+      },
+      {
+        "repository": "aya-jabbari/possession",
+        "path": "pipeline/viterbi.py",
+        "url": "https://github.com/aya-jabbari/possession/blob/bf357ae7d3d66f8161b2919966c8ae6c08cd9180/pipeline/viterbi.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_tabpfn_fixed_confirmation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_tabpfn_fixed_confirmation.py"
+      },
+      {
+        "repository": "YonoBengkel/barcelona",
+        "path": "possession/practice.py",
+        "url": "https://github.com/YonoBengkel/barcelona/blob/4132e6db5273e39c538af96937f7888cb60300bf/possession/practice.py"
+      },
+      {
+        "repository": "YonoBengkel/barcelona",
+        "path": "scripts/train_stacking.py",
+        "url": "https://github.com/YonoBengkel/barcelona/blob/4132e6db5273e39c538af96937f7888cb60300bf/scripts/train_stacking.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_extratrees_latent.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_extratrees_latent.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_factorized_latent.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_factorized_latent.py"
+      },
+      {
+        "repository": "YonoBengkel/barcelona",
+        "path": "scripts/train_tcn.py",
+        "url": "https://github.com/YonoBengkel/barcelona/blob/4132e6db5273e39c538af96937f7888cb60300bf/scripts/train_tcn.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_tabpfn_fixed_confirmation_v2.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_tabpfn_fixed_confirmation_v2.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "src/bonus/v3.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/src/bonus/v3.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/human_annotation_training.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/human_annotation_training.py"
+      },
+      {
+        "repository": "AlbertSanggam-231401034/pundit-deculs-mtah2027",
+        "path": "eksperimen_urutan_idsse.py",
+        "url": "https://github.com/AlbertSanggam-231401034/pundit-deculs-mtah2027/blob/e17dd178cdbab50660f6e6cb5929450d2c010a48/eksperimen_urutan_idsse.py"
+      },
+      {
+        "repository": "bh-14/more-than-a-hack-2027",
+        "path": "possession/evidence/dead_ball.py",
+        "url": "https://github.com/bh-14/more-than-a-hack-2027/blob/30d24bdac21992d8257aa7eeb9f99407e0399e12/possession/evidence/dead_ball.py"
+      },
+      {
+        "repository": "guiosorio15/Turistas-em-Barcelona",
+        "path": "scripts/run_lomo.py",
+        "url": "https://github.com/guiosorio15/Turistas-em-Barcelona/blob/b9f1d211f0991115bdd7ef6d987593a10d74ce8b/scripts/run_lomo.py"
+      },
+      {
+        "repository": "sirozhiddinovv/more-than-a-hack-2027-solution",
+        "path": "starter/evaluate_lgbm_pipeline.py",
+        "url": "https://github.com/sirozhiddinovv/more-than-a-hack-2027-solution/blob/b8541d0b9f41d52197cd9fc7d72cadef29a4c320/starter/evaluate_lgbm_pipeline.py"
+      },
+      {
+        "repository": "varnavas13/MoreThanAHack2027",
+        "path": "possession/other_games.py",
+        "url": "https://github.com/varnavas13/MoreThanAHack2027/blob/cdae88686d0f7547fea41b8be48b2f770554ca71/possession/other_games.py"
+      },
+      {
+        "repository": "OgayoTK1/possession-intelligence",
+        "path": "mtah-possession/scripts/exp_noise_robustness.py",
+        "url": "https://github.com/OgayoTK1/possession-intelligence/blob/063f5fbb07e01ee420892dc1dcfa58b2c8f3fc7e/mtah-possession/scripts/exp_noise_robustness.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_camera.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_camera.py"
+      },
+      {
+        "repository": "PetricaNancu/ball-possession-barca-hackathon",
+        "path": "mtah/degrade.py",
+        "url": "https://github.com/PetricaNancu/ball-possession-barca-hackathon/blob/a7a519acabbb89cc6e6516bd84b057b526ed44f6/mtah/degrade.py"
+      },
+      {
+        "repository": "LinLyra/Mes_Que_XI_Submission",
+        "path": "solution/external_rolling_validation.py",
+        "url": "https://github.com/LinLyra/Mes_Que_XI_Submission/blob/f409e5f6943e40c27378d6cef098c4f83d276752/solution/external_rolling_validation.py"
+      },
+      {
+        "repository": "adrianobwn/juarakali",
+        "path": "solution/model.py",
+        "url": "https://github.com/adrianobwn/juarakali/blob/862cc3302bdb47dd6749c542268e02f519f5100c/solution/model.py"
+      },
+      {
+        "repository": "falafelona/more-than-a-hack-2027",
+        "path": "src/falafelona/devset.py",
+        "url": "https://github.com/falafelona/more-than-a-hack-2027/blob/c5ec1785d21ab8e261b42e8eddb63b7a041ba1fe/src/falafelona/devset.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_catboost.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_catboost.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "dfl_submission/path_trial.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/dfl_submission/path_trial.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/probe_tabpfn_query_grouping.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/probe_tabpfn_query_grouping.py"
+      },
+      {
+        "repository": "fcb10har1/TIKI-DATA",
+        "path": "tiki_data/benchmark.py",
+        "url": "https://github.com/fcb10har1/TIKI-DATA/blob/6653d0dcb1bc58ea4910a86912e6b095e8bc51d7/tiki_data/benchmark.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_possession_boundary_precision.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_possession_boundary_precision.py"
+      },
+      {
+        "repository": "Mrazakos/weight-space-dotnet",
+        "path": "experiment/harness/evaluate.py",
+        "url": "https://github.com/Mrazakos/weight-space-dotnet/blob/5aeeab9bbad2bb31d5656079c63fa9ad0cb78433/experiment/harness/evaluate.py"
+      },
+      {
+        "repository": "Artsyadi/Bar-a-Herizon",
+        "path": "scripts/step61_errors.py",
+        "url": "https://github.com/Artsyadi/Bar-a-Herizon/blob/f3fe6a9f35fe700421c69605fb9d85c767f52df2/scripts/step61_errors.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_phase_control.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_phase_control.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_monotone.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_monotone.py"
+      },
+      {
+        "repository": "fcb10har1/TIKI-DATA",
+        "path": "tiki_data/p2/train.py",
+        "url": "https://github.com/fcb10har1/TIKI-DATA/blob/6653d0dcb1bc58ea4910a86912e6b095e8bc51d7/tiki_data/p2/train.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-submission",
+        "path": "dfl_submission/metrica_sample.py",
+        "url": "https://github.com/Derekko-web/mtah2027-submission/blob/7a060b97ba867035891521ec06870cc2d8e540fb/dfl_submission/metrica_sample.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_player_representation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_player_representation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/run_dfl_rule_decoder.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/run_dfl_rule_decoder.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_island_endpoints.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_island_endpoints.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "possession_recovery/experiment.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/possession_recovery/experiment.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_tabpfn_block_fix.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_tabpfn_block_fix.py"
+      },
+      {
+        "repository": "sirozhiddinovv/more-than-a-hack-2027-solution",
+        "path": "starter/build_final_ensemble.py",
+        "url": "https://github.com/sirozhiddinovv/more-than-a-hack-2027-solution/blob/b8541d0b9f41d52197cd9fc7d72cadef29a4c320/starter/build_final_ensemble.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/confirm_motion_dead_trim.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/confirm_motion_dead_trim.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_representation_ensemble.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_representation_ensemble.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-submission",
+        "path": "dfl_submission/diagnosis.py",
+        "url": "https://github.com/Derekko-web/mtah2027-submission/blob/7a060b97ba867035891521ec06870cc2d8e540fb/dfl_submission/diagnosis.py"
+      },
+      {
+        "repository": "prithvi-kaizen/football-analytics",
+        "path": "projects/possession-lab/src/possession_lab/phase1_report.py",
+        "url": "https://github.com/prithvi-kaizen/football-analytics/blob/e938e27c5d685061821889fbcc3d645ebcafe564/projects/possession-lab/src/possession_lab/phase1_report.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_tabpfn_ranking.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_tabpfn_ranking.py"
+      },
+      {
+        "repository": "YonoBengkel/barcelona",
+        "path": "scripts/train_tcn_ensemble.py",
+        "url": "https://github.com/YonoBengkel/barcelona/blob/4132e6db5273e39c538af96937f7888cb60300bf/scripts/train_tcn_ensemble.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-submission",
+        "path": "dfl_submission/triple_trial.py",
+        "url": "https://github.com/Derekko-web/mtah2027-submission/blob/7a060b97ba867035891521ec06870cc2d8e540fb/dfl_submission/triple_trial.py"
+      },
+      {
+        "repository": "avi1967/Barca-Baby",
+        "path": "more-than-a-hack-2027/starter/baseline.py",
+        "url": "https://github.com/avi1967/Barca-Baby/blob/594a32b621f4fb14ec4ef026f52793da18761193/more-than-a-hack-2027/starter/baseline.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/confirm_broadcast_closure.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/confirm_broadcast_closure.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "src/bonus/j18.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/src/bonus/j18.py"
+      },
+      {
+        "repository": "NEXE-sudo/More-Than-A-Hack-2026",
+        "path": "src/possession/experiments.py",
+        "url": "https://github.com/NEXE-sudo/More-Than-A-Hack-2026/blob/c71d8c6fdb2c46cfa42a9a8c11f2389b5c0201db/src/possession/experiments.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_neural_control.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_neural_control.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_home_boundary_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_home_boundary_candidate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_transcript_projection.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_transcript_projection.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "visual_possession/experiment.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/visual_possession/experiment.py"
+      },
+      {
+        "repository": "Mrazakos/weight-space-dotnet",
+        "path": "experiment/harness/build_prompt.py",
+        "url": "https://github.com/Mrazakos/weight-space-dotnet/blob/5aeeab9bbad2bb31d5656079c63fa9ad0cb78433/experiment/harness/build_prompt.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/confirm_stoppage_recovery.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/confirm_stoppage_recovery.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_guarded_boundaries.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_guarded_boundaries.py"
+      },
+      {
+        "repository": "ramith001/more-than-a-hack-2027-submission",
+        "path": "notes/evidence/team_evidence_all_five.py",
+        "url": "https://github.com/ramith001/more-than-a-hack-2027-submission/blob/42b512c125723184dbcabc98ad2aa1c51b09cc22/notes/evidence/team_evidence_all_five.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-submission",
+        "path": "dfl_submission/pathcrf_trial.py",
+        "url": "https://github.com/Derekko-web/mtah2027-submission/blob/7a060b97ba867035891521ec06870cc2d8e540fb/dfl_submission/pathcrf_trial.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/analyze_tabpfn_blocks.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/analyze_tabpfn_blocks.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_stacked_dead.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_stacked_dead.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_stoppage_hysteresis.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_stoppage_hysteresis.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_boundary_training.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_boundary_training.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_tabpfn_native.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_tabpfn_native.py"
+      },
+      {
+        "repository": "avi1967/More-Than-A-Hack",
+        "path": "solution/run_held_out_synthetic_audit.py",
+        "url": "https://github.com/avi1967/More-Than-A-Hack/blob/3a92e4e0e88e80be467f81ef615c8b0fce808491/solution/run_held_out_synthetic_audit.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "structured_possession/experiment.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/structured_possession/experiment.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_holdout_extras.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_holdout_extras.py"
+      },
+      {
+        "repository": "OgayoTK1/possession-intelligence",
+        "path": "mtah-possession/possession/decode.py",
+        "url": "https://github.com/OgayoTK1/possession-intelligence/blob/063f5fbb07e01ee420892dc1dcfa58b2c8f3fc7e/mtah-possession/possession/decode.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_dfl_dead_public.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_dfl_dead_public.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/native_encoder_continuation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/native_encoder_continuation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_broadcast_ownership.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_broadcast_ownership.py"
+      },
+      {
+        "repository": "j4yop/plumb",
+        "path": "scripts/external_tuning.py",
+        "url": "https://github.com/j4yop/plumb/blob/9e266895c291e72a8ca9b6a29fa64c9dc343fff4/scripts/external_tuning.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_gaussian_process_native.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_gaussian_process_native.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_tabpfn_full_candidate_v3.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_tabpfn_full_candidate_v3.py"
+      },
+      {
+        "repository": "mustafa3rsan/possession-bruin-pipeline",
+        "path": "evaluation/possession_metrics.py",
+        "url": "https://github.com/mustafa3rsan/possession-bruin-pipeline/blob/10207d63f990083cc11e3914788e3ef5db7afc1e/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_tabpfn_fixed_confirmation_v2.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_tabpfn_fixed_confirmation_v2.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_native_encoder_continuation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_native_encoder_continuation.py"
+      },
+      {
+        "repository": "prithvi-kaizen/football-analytics",
+        "path": "projects/possession-lab/scripts/evaluate_motion_v2.py",
+        "url": "https://github.com/prithvi-kaizen/football-analytics/blob/e938e27c5d685061821889fbcc3d645ebcafe564/projects/possession-lab/scripts/evaluate_motion_v2.py"
+      },
+      {
+        "repository": "NEXE-sudo/More-Than-A-Hack-2026",
+        "path": "src/possession/evaluation/error_analysis.py",
+        "url": "https://github.com/NEXE-sudo/More-Than-A-Hack-2026/blob/c71d8c6fdb2c46cfa42a9a8c11f2389b5c0201db/src/possession/evaluation/error_analysis.py"
+      },
+      {
+        "repository": "prithvi-kaizen/football-analytics",
+        "path": "projects/possession-lab/src/possession_lab/phase2_report.py",
+        "url": "https://github.com/prithvi-kaizen/football-analytics/blob/e938e27c5d685061821889fbcc3d645ebcafe564/projects/possession-lab/src/possession_lab/phase2_report.py"
+      },
+      {
+        "repository": "ra189zor/mtah2027-possession",
+        "path": "more-than-a-hack-2027-main repo/evaluation/possession_metrics.py",
+        "url": "https://github.com/ra189zor/mtah2027-possession/blob/eb20e0cc0e90e6c32263706ccf4ec034f3e0c2f7/more-than-a-hack-2027-main repo/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "coderhema/Barca-FC-MTAH",
+        "path": "haeys/tests/score.py",
+        "url": "https://github.com/coderhema/Barca-FC-MTAH/blob/463c1b558bfedb8ff6abe387cd9f057b67751de1/haeys/tests/score.py"
+      },
+      {
+        "repository": "NEXE-sudo/More-Than-A-Hack-2026",
+        "path": "tests/unit/test_experiments.py",
+        "url": "https://github.com/NEXE-sudo/More-Than-A-Hack-2026/blob/c71d8c6fdb2c46cfa42a9a8c11f2389b5c0201db/tests/unit/test_experiments.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_stoppage_recovery.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_stoppage_recovery.py"
+      },
+      {
+        "repository": "OgayoTK1/possession-intelligence",
+        "path": "mtah-possession/tests/test_core.py",
+        "url": "https://github.com/OgayoTK1/possession-intelligence/blob/063f5fbb07e01ee420892dc1dcfa58b2c8f3fc7e/mtah-possession/tests/test_core.py"
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "total": 375,
+    "items": [
+      {
+        "repository": "HellThrall2000/more-than-a-hack-2027",
+        "path": "possession/diagnose.py",
+        "url": "https://github.com/HellThrall2000/more-than-a-hack-2027/blob/4ce68bcc50e03af22ba9366e68bf18464a58d275/possession/diagnose.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/reproduce_boundary_precision.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/reproduce_boundary_precision.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/reproduce_spurious_possessions.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/reproduce_spurious_possessions.py"
+      },
+      {
+        "repository": "AlbertSanggam-231401034/pundit-deculs-mtah2027",
+        "path": "latih_idsse_awal.py",
+        "url": "https://github.com/AlbertSanggam-231401034/pundit-deculs-mtah2027/blob/e17dd178cdbab50660f6e6cb5929450d2c010a48/latih_idsse_awal.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/train_factorized_baseline.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/train_factorized_baseline.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/audit_tabpfn_extended_evaluation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/audit_tabpfn_extended_evaluation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/reproduce_home_boundary_precision.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/reproduce_home_boundary_precision.py"
+      },
+      {
+        "repository": "palashpawar/mtah27-possession",
+        "path": "possession/tag_crossval.py",
+        "url": "https://github.com/palashpawar/mtah27-possession/blob/6c5a32447506ba2163f42d4b1f096f6ab2e1fac2/possession/tag_crossval.py"
+      },
+      {
+        "repository": "ramith001/more-than-a-hack-2027-submission",
+        "path": "notes/evidence/dead_ceiling.py",
+        "url": "https://github.com/ramith001/more-than-a-hack-2027-submission/blob/42b512c125723184dbcabc98ad2aa1c51b09cc22/notes/evidence/dead_ceiling.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_control_continuation_repair.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_control_continuation_repair.py"
+      },
+      {
+        "repository": "YonoBengkel/barcelona",
+        "path": "scripts/train_models.py",
+        "url": "https://github.com/YonoBengkel/barcelona/blob/4132e6db5273e39c538af96937f7888cb60300bf/scripts/train_models.py"
+      },
+      {
+        "repository": "bassem97/syntaxeror-mtah2027",
+        "path": "analysis/error_budget.py",
+        "url": "https://github.com/bassem97/syntaxeror-mtah2027/blob/315acffa6ec9edfdb9f4000214da324405cb653a/analysis/error_budget.py"
+      },
+      {
+        "repository": "OgayoTK1/possession-intelligence",
+        "path": "mtah-possession/scripts/exp_decode_grid.py",
+        "url": "https://github.com/OgayoTK1/possession-intelligence/blob/063f5fbb07e01ee420892dc1dcfa58b2c8f3fc7e/mtah-possession/scripts/exp_decode_grid.py"
+      },
+      {
+        "repository": "micheledeantoni/possesso-calcio",
+        "path": "src/notebook_io.py",
+        "url": "https://github.com/micheledeantoni/possesso-calcio/blob/3b8a878993d105bd952a587af6112b54e92d485e/src/notebook_io.py"
+      },
+      {
+        "repository": "varnavas13/MoreThanAHack2027",
+        "path": "possession/run.py",
+        "url": "https://github.com/varnavas13/MoreThanAHack2027/blob/cdae88686d0f7547fea41b8be48b2f770554ca71/possession/run.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/promote_home_arrival_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/promote_home_arrival_candidate.py"
+      },
+      {
+        "repository": "ramith001/more-than-a-hack-2027-submission",
+        "path": "notes/evidence/team_ceiling.py",
+        "url": "https://github.com/ramith001/more-than-a-hack-2027-submission/blob/42b512c125723184dbcabc98ad2aa1c51b09cc22/notes/evidence/team_ceiling.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "src/bonus/protocol.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/src/bonus/protocol.py"
+      },
+      {
+        "repository": "danieltyukov/more-than-a-hack-2027",
+        "path": "possession/learned.py",
+        "url": "https://github.com/danieltyukov/more-than-a-hack-2027/blob/3ef24dc2b15fc560fe1d3f05f75b842b8606e8e6/possession/learned.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_context_ablation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_context_ablation.py"
+      },
+      {
+        "repository": "YonoBengkel/barcelona",
+        "path": "possession/stacking.py",
+        "url": "https://github.com/YonoBengkel/barcelona/blob/4132e6db5273e39c538af96937f7888cb60300bf/possession/stacking.py"
+      },
+      {
+        "repository": "OgayoTK1/possession-intelligence",
+        "path": "mtah-possession/scripts/exp_baseline_calibration.py",
+        "url": "https://github.com/OgayoTK1/possession-intelligence/blob/063f5fbb07e01ee420892dc1dcfa58b2c8f3fc7e/mtah-possession/scripts/exp_baseline_calibration.py"
+      },
+      {
+        "repository": "hannannoor/messis-foot",
+        "path": "gap_solver/audit.py",
+        "url": "https://github.com/hannannoor/messis-foot/blob/3a1c8608e050e2f812826719e1af882d87cf2f67/gap_solver/audit.py"
+      },
+      {
+        "repository": "OgayoTK1/possession-intelligence",
+        "path": "mtah-possession/scripts/exp_baseline_evidence_hsmm.py",
+        "url": "https://github.com/OgayoTK1/possession-intelligence/blob/063f5fbb07e01ee420892dc1dcfa58b2c8f3fc7e/mtah-possession/scripts/exp_baseline_evidence_hsmm.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_home_boundaries.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_home_boundaries.py"
+      },
+      {
+        "repository": "ramith001/more-than-a-hack-2027-submission",
+        "path": "notes/evidence/restart_rule_check.py",
+        "url": "https://github.com/ramith001/more-than-a-hack-2027-submission/blob/42b512c125723184dbcabc98ad2aa1c51b09cc22/notes/evidence/restart_rule_check.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_pair_motion.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_pair_motion.py"
+      },
+      {
+        "repository": "victorbrull/Smooth-Operators-more-than-a-hack-2027",
+        "path": "solution/03_possession_v1.py",
+        "url": "https://github.com/victorbrull/Smooth-Operators-more-than-a-hack-2027/blob/fce77fd9c145624a14454ee06327a8907a7116da/solution/03_possession_v1.py"
+      },
+      {
+        "repository": "Mrazakos/weight-space-dotnet",
+        "path": "experiment/harness/run_scratch.py",
+        "url": "https://github.com/Mrazakos/weight-space-dotnet/blob/5aeeab9bbad2bb31d5656079c63fa9ad0cb78433/experiment/harness/run_scratch.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_sequence.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_sequence.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_handoff_hazard.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_handoff_hazard.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_new_camera_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_new_camera_candidate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_dead_bridge.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_dead_bridge.py"
+      },
+      {
+        "repository": "fcb10har1/TIKI-DATA",
+        "path": "tiki_data/p2/motion_experiment.py",
+        "url": "https://github.com/fcb10har1/TIKI-DATA/blob/6653d0dcb1bc58ea4910a86912e6b095e8bc51d7/tiki_data/p2/motion_experiment.py"
+      },
+      {
+        "repository": "falafelona/more-than-a-hack-2027",
+        "path": "src/falafelona/possession.py",
+        "url": "https://github.com/falafelona/more-than-a-hack-2027/blob/c5ec1785d21ab8e261b42e8eddb63b7a041ba1fe/src/falafelona/possession.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_spatial_shape.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_spatial_shape.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_contact_heads.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_contact_heads.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_sports_action.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_sports_action.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_latent_seed_ensemble.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_latent_seed_ensemble.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/build_stoppage_fragment_candidate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/build_stoppage_fragment_candidate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_external_teacher.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_external_teacher.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_temporal_consensus.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_temporal_consensus.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_provided_speed.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_provided_speed.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_weak_ownership.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_weak_ownership.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_pooled_stoppages.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_pooled_stoppages.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_nested_owner_stack.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_nested_owner_stack.py"
+      },
+      {
+        "repository": "LinLyra/Mes_Que_XI_Submission",
+        "path": "solution/external_game3_validation.py",
+        "url": "https://github.com/LinLyra/Mes_Que_XI_Submission/blob/f409e5f6943e40c27378d6cef098c4f83d276752/solution/external_game3_validation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_modernnca_native.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_modernnca_native.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_tabpfn_extended.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_tabpfn_extended.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_contact_dynamics.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_contact_dynamics.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_broadcast_action.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_broadcast_action.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_detector_features.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_detector_features.py"
+      },
+      {
+        "repository": "coderhema/Barca-FC-MTAH",
+        "path": "evaluation/possession_metrics.py",
+        "url": "https://github.com/coderhema/Barca-FC-MTAH/blob/463c1b558bfedb8ff6abe387cd9f057b67751de1/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "aqaPayam/Barca4Ever",
+        "path": "evaluation/possession_metrics.py",
+        "url": "https://github.com/aqaPayam/Barca4Ever/blob/186d20400ada06cdad8fc416d2592b88300fbf40/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/tabpfn_full_match_native_v3.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/tabpfn_full_match_native_v3.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "src/sequential_pipeline.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/src/sequential_pipeline.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "src/observation_pipeline.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/src/observation_pipeline.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/run_tabpfn_full_memory_gate.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/run_tabpfn_full_memory_gate.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_tabpfn_fixed_confirmation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_tabpfn_fixed_confirmation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/native_encoder_continuation_extended.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/native_encoder_continuation_extended.py"
+      },
+      {
+        "repository": "avi1967/Barca-Baby",
+        "path": "more-than-a-hack-2027/starter/make_dummy_submission.py",
+        "url": "https://github.com/avi1967/Barca-Baby/blob/594a32b621f4fb14ec4ef026f52793da18761193/more-than-a-hack-2027/starter/make_dummy_submission.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/research_native_encoder_continuation_extended.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/research_native_encoder_continuation_extended.py"
+      },
+      {
+        "repository": "avi1967/Barca-Baby",
+        "path": "more-than-a-hack-2027/evaluation/run_evaluation.py",
+        "url": "https://github.com/avi1967/Barca-Baby/blob/594a32b621f4fb14ec4ef026f52793da18761193/more-than-a-hack-2027/evaluation/run_evaluation.py"
+      },
+      {
+        "repository": "kavishj/Barca_hack",
+        "path": "tools/spells.py",
+        "url": "https://github.com/kavishj/Barca_hack/blob/a47fbcb16c72750d57a13496b510ff2b0b959faa/tools/spells.py"
+      },
+      {
+        "repository": "avi1967/Barca-Baby",
+        "path": "more-than-a-hack-2027/evaluation/possession_metrics.py",
+        "url": "https://github.com/avi1967/Barca-Baby/blob/594a32b621f4fb14ec4ef026f52793da18761193/more-than-a-hack-2027/evaluation/possession_metrics.py"
+      },
+      {
+        "repository": "jengler/bench_ds_projects",
+        "path": "generated_tree/dir_55/dir_71/file_1.py",
+        "url": "https://github.com/jengler/bench_ds_projects/blob/5871b8fd7d57d29b387403f845713063c4c47abe/generated_tree/dir_55/dir_71/file_1.py"
+      },
+      {
+        "repository": "micheledeantoni/possesso-calcio",
+        "path": "tests/test_challenge_metrics.py",
+        "url": "https://github.com/micheledeantoni/possesso-calcio/blob/3b8a878993d105bd952a587af6112b54e92d485e/tests/test_challenge_metrics.py"
+      },
+      {
+        "repository": "falafelona/more-than-a-hack-2027",
+        "path": "tests/test_bootstrap_eval.py",
+        "url": "https://github.com/falafelona/more-than-a-hack-2027/blob/c5ec1785d21ab8e261b42e8eddb63b7a041ba1fe/tests/test_bootstrap_eval.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_tabpfn_fixed_confirmation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_tabpfn_fixed_confirmation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_motion_dead_trim_promotion.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_motion_dead_trim_promotion.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_native_encoder_continuation.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_native_encoder_continuation.py"
+      },
+      {
+        "repository": "Derekko-web/mtah2027-possession",
+        "path": "experiments/test_tabpfn_fixed_confirmation_v2.py",
+        "url": "https://github.com/Derekko-web/mtah2027-possession/blob/57eb8777fcf9f26c4ae3de855163cd6a4923286e/experiments/test_tabpfn_fixed_confirmation_v2.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "tests/test_j18.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/tests/test_j18.py"
+      },
+      {
+        "repository": "falafelona/more-than-a-hack-2027",
+        "path": "tests/test_ball.py",
+        "url": "https://github.com/falafelona/more-than-a-hack-2027/blob/c5ec1785d21ab8e261b42e8eddb63b7a041ba1fe/tests/test_ball.py"
+      },
+      {
+        "repository": "maxoubvd/MYA-more-than-a-hack-2027",
+        "path": "src/final_test.py",
+        "url": "https://github.com/maxoubvd/MYA-more-than-a-hack-2027/blob/96ce58da04b1db876c4787cb140b1ee5e62d12c7/src/final_test.py"
+      }
+    ]
+  }
+]

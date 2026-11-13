@@ -1,0 +1,12 @@
+[project]
+name = "ydse-possession"
+version = "1.0.0"
+description = "Local, reproducible football possession sequence inference"
+requires-python = ">=3.14"
+dependencies = ["numpy==2.5.4", "pandas==3.1.1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

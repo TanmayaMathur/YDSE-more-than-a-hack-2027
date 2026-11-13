@@ -1,0 +1,19 @@
+{
+  "official_commits": 6,
+  "official_issues_reviewed": 0,
+  "official_prs_reviewed": 0,
+  "accessible_forks": 288,
+  "fork_status": {
+    "identical": 158,
+    "ahead": 53,
+    "unavailable": 20,
+    "behind": 44,
+    "diverged": 13
+  },
+  "forks_ahead": 66,
+  "forks_with_changed_python": 51,
+  "candidate_repositories": 401,
+  "source_inspected_repositories": 7,
+  "all_inventory_rows": 1053,
+  "code_search_records": 375
+}

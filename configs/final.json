@@ -1,0 +1,12 @@
+{
+  "model": "YDSE hybrid duration-constrained sequence inference v1",
+  "max_gap_s": 0.8,
+  "max_ball_speed": 45.0,
+  "geometry_weight": 2.4,
+  "tag_weight": 0.55,
+  "dead_bias": -1.4,
+  "team_switch": 1.1,
+  "dead_switch": 0.7,
+  "minimum_s": [0.32, 0.32, 0.64],
+  "official_prekickoff": true
+}
