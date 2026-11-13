@@ -21,3 +21,21 @@ research/github_updates/raw/
 reports/*private*
 tmp/
 output/
+
+# Release safety: raw/derived match formats stay private at any location.
+*.csv
+!research/competitor_inventory.csv
+*.xml
+*.txt
+!requirements*.txt
+*.avi
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.pkl
+*.joblib
+*.pt
+*.pth
+submission/**/*.pdf
