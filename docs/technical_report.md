@@ -1,5 +1,9 @@
 # YDSE — More Than a Hack 2027, Phase 1
 
+This document describes preserved Version 1. The separate audited candidate is
+documented in [technical_report_v2.md](technical_report_v2.md). The original PDF
+and submitted-file candidate have not been overwritten.
+
 ## Task and data provenance
 
 YDSE predicts Barcelona possession (`H`), Athletic Club possession (`A`), dead ball

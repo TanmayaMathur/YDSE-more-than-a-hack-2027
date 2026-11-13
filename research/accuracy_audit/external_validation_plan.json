@@ -1,0 +1,17 @@
+{
+  "frozen_before_reading_external_tracking_outcomes": true,
+  "dataset": "Sportec/DFL, An integrated dataset of spatiotemporal and event data in elite soccer",
+  "article_id": 28196177,
+  "match_id": "J03WOH",
+  "selection_rule": "Smallest tracking XML in the primary article file list; no quality-based selection",
+  "licence": "CC BY 4.0 verified in Figshare primary API",
+  "conditions": ["clean", "bursty_ball_missing_seed1729", "bursty_ball_missing_seed3253"],
+  "missing_stationary_probability": 0.41,
+  "mean_missing_burst_frames": 40,
+  "tagging": "No automatic tactical tags transferred; no external label-derived phase priors",
+  "label_fields": ["BallStatus", "BallPossession"],
+  "inference_fields": ["player X/Y", "ball X/Y", "team metadata", "period boundaries", "FPS", "pitch dimensions"],
+  "forbidden": "Label fields must never enter Tracking, model features, parameters, tags or corruption selection",
+  "selection": "No parameter/model changes after this evaluation; record successes and regressions",
+  "limitations": "One other match; provider semantics, clean-tracking and anonymous-slot domain shifts; no private competition score"
+}

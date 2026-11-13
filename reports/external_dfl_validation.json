@@ -1,0 +1,133 @@
+{
+  "source": "https://springernature.figshare.com/articles/dataset/28196177",
+  "doi": "10.6084/m9.figshare.28196177.v1",
+  "licence": "CC BY 4.0",
+  "attribution": "Bassek, Rein, Weber and Memmert (2025), An integrated dataset of spatiotemporal and event data in elite soccer",
+  "plan": "research/accuracy_audit/external_validation_plan.json",
+  "provenance": {
+    "match_id": "J03WOH",
+    "pitch": [
+      105.0,
+      68.0
+    ],
+    "fps": 25,
+    "rows": 137214,
+    "players": 39,
+    "ball_rows": 137214,
+    "source_label_codes": [
+      [
+        "0",
+        "1"
+      ],
+      [
+        "0",
+        "2"
+      ],
+      [
+        "1",
+        "1"
+      ],
+      [
+        "1",
+        "2"
+      ]
+    ],
+    "graded_frames": 137214,
+    "target_source": "BallStatus and BallPossession; never included in Tracking",
+    "provider_semantics_warning": "DFL owner flags need not exactly match Metrica controlled-possession rules"
+  },
+  "candidate_sha256": "07b7ac751c9716856980477e1a1dd6f87113e4a70d5e360ee4b3b3341e521d76",
+  "results": [
+    {
+      "condition": "clean",
+      "model": "v1",
+      "injected_missing_fraction": 0.0,
+      "runtime_s": 3.9066684000135865,
+      "spell_f1_mean": 0.3949224259520452,
+      "macro_f1": 0.6762426481580276,
+      "n_gt_spells": 402,
+      "n_pred_spells": 307,
+      "alive_dead_f1": 0.8099456730010596
+    },
+    {
+      "condition": "clean",
+      "model": "v2",
+      "injected_missing_fraction": 0.0,
+      "runtime_s": 6.905918300006306,
+      "spell_f1_mean": 0.3971870604781997,
+      "macro_f1": 0.6781842545525295,
+      "n_gt_spells": 402,
+      "n_pred_spells": 309,
+      "alive_dead_f1": 0.8112947658402204
+    },
+    {
+      "condition": "bursty_ball_missing_seed1729",
+      "model": "v1",
+      "injected_missing_fraction": 0.4002944305974609,
+      "runtime_s": 3.9967224999854807,
+      "spell_f1_mean": 0.28828828828828834,
+      "macro_f1": 0.6164041871648651,
+      "n_gt_spells": 402,
+      "n_pred_spells": 264,
+      "alive_dead_f1": 0.7847939481661524
+    },
+    {
+      "condition": "bursty_ball_missing_seed1729",
+      "model": "v2",
+      "injected_missing_fraction": 0.4002944305974609,
+      "runtime_s": 7.051703599980101,
+      "spell_f1_mean": 0.29848942598187306,
+      "macro_f1": 0.6340339466739697,
+      "n_gt_spells": 402,
+      "n_pred_spells": 260,
+      "alive_dead_f1": 0.7943289078613414
+    },
+    {
+      "condition": "bursty_ball_missing_seed3253",
+      "model": "v1",
+      "injected_missing_fraction": 0.402305887154372,
+      "runtime_s": 3.8806096999906003,
+      "spell_f1_mean": 0.3034690799396682,
+      "macro_f1": 0.626923583384707,
+      "n_gt_spells": 402,
+      "n_pred_spells": 261,
+      "alive_dead_f1": 0.7878827725636516
+    },
+    {
+      "condition": "bursty_ball_missing_seed3253",
+      "model": "v2",
+      "injected_missing_fraction": 0.402305887154372,
+      "runtime_s": 7.001438100007363,
+      "spell_f1_mean": 0.31238670694864046,
+      "macro_f1": 0.6372856169773091,
+      "n_gt_spells": 402,
+      "n_pred_spells": 260,
+      "alive_dead_f1": 0.793454971173599
+    }
+  ],
+  "paired_intervals": {
+    "clean": {
+      "delta_v2_minus_v1_low95": -0.0010982366558950295,
+      "delta_v2_minus_v1_high95": 0.0069008071827160984,
+      "draws": 1000,
+      "seed": 20261114,
+      "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+    },
+    "bursty_ball_missing_seed1729": {
+      "delta_v2_minus_v1_low95": 0.0004790288778204199,
+      "delta_v2_minus_v1_high95": 0.019784527730147092,
+      "draws": 1000,
+      "seed": 20261114,
+      "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+    },
+    "bursty_ball_missing_seed3253": {
+      "delta_v2_minus_v1_low95": -0.0031627501105020465,
+      "delta_v2_minus_v1_high95": 0.020419474785033722,
+      "draws": 1000,
+      "seed": 20261114,
+      "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+    }
+  },
+  "total_seconds": 53.33709469999303,
+  "warning": "One external match with provider-defined tracking labels; not a competition score or proof of broad generalization"
+}

@@ -1,5 +1,20 @@
 # YDSE — More Than a Hack 2027 possession
 
+The `accuracy-improvement` branch adds a separate audited V2 candidate. Original
+V1 inference and `submission/YDSE.csv` remain unchanged. See
+[accuracy audit](reports/accuracy_audit.md), [candidate comparison](reports/final_candidate_comparison.md)
+and [independent other-match validation](reports/external_validation.md).
+
+Safe V2 reproduction (does not overwrite V1 or its release metadata):
+
+```powershell
+.venv\Scripts\python scripts/verify_accuracy_candidate.py
+```
+
+V2 is an engineering recommendation for review, with demonstrated fixes and modest
+frozen external-match gains. Competition accuracy remains unknown. No automatic
+promotion, repository publication or submission occurs.
+
 A deterministic, local Python pipeline that generates a full-match `frame,label`
 submission from the licensed tactical tracking and automatic Smart Tagging.
 It combines confidence-weighted geometry, short-gap ball repair, collective motion,

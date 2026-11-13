@@ -1,0 +1,56 @@
+{
+  "perfect": {
+    "spell_f1_mean": 1.0,
+    "macro_f1": 0.6666666666666666,
+    "n_gt_spells": 3,
+    "n_pred_spells": 3
+  },
+  "false_touch": {
+    "spell_f1_mean": 0.6499999999999999,
+    "macro_f1": 0.6502642609804994,
+    "n_gt_spells": 3,
+    "n_pred_spells": 5
+  },
+  "missed_turnovers": {
+    "spell_f1_mean": 0.1,
+    "macro_f1": 0.26666666666666666,
+    "n_gt_spells": 3,
+    "n_pred_spells": 1
+  },
+  "late_1_second": {
+    "spell_f1_mean": 1.0,
+    "macro_f1": 0.5833333333333334,
+    "n_gt_spells": 3,
+    "n_pred_spells": 3
+  },
+  "false_dead": {
+    "spell_f1_mean": 0.7428571428571429,
+    "macro_f1": 0.6610169491525424,
+    "n_gt_spells": 3,
+    "n_pred_spells": 4
+  },
+  "missed_dead": {
+    "spell_f1_mean": 0.6857142857142857,
+    "macro_f1": 0.6491228070175439,
+    "n_gt_spells": 4,
+    "n_pred_spells": 3
+  },
+  "abstain_across_turnover": {
+    "spell_f1_mean": 0.7333333333333333,
+    "macro_f1": 0.5181598062953995,
+    "n_gt_spells": 3,
+    "n_pred_spells": 3
+  },
+  "oversmoothed_short_spells": {
+    "spell_f1_mean": 0.06666666666666668,
+    "macro_f1": 0.2719298245614035,
+    "n_gt_spells": 5,
+    "n_pred_spells": 1
+  },
+  "two_halves_same_team": {
+    "spell_f1_mean": 1.0,
+    "macro_f1": 0.3333333333333333,
+    "n_gt_spells": 2,
+    "n_pred_spells": 2
+  }
+}

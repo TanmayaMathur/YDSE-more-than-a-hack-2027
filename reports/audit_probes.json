@@ -1,0 +1,19 @@
+{
+  "single_stationary_player_slow_score": 1.0,
+  "stationary_score_at_reliability_0.01": 1.0,
+  "stationary_score_at_reliability_1.0": 1.0,
+  "graded_feature_change_when_only_ungraded_input_changes": 0.6378125000000137,
+  "unobserved_turnover_gap": [
+    100,
+    300
+  ],
+  "v1_turnover_frames": [
+    100
+  ],
+  "identical_static_geometry_live_or_whistle": {
+    "v1_dead_fraction_in_constructed_live_pause": 1.0,
+    "v2_dead_fraction_in_constructed_live_pause": 1.0,
+    "warning": "Same observations also support a real stoppage. No geometric-only classifier can distinguish referee permission in this pair."
+  },
+  "meaning": "Constructed mechanisms only, not competition quality estimates"
+}

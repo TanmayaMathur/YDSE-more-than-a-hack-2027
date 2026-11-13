@@ -1,0 +1,86 @@
+{
+  "v1": {
+    "graded_frames": 158857,
+    "spell_count": 362,
+    "dead_segments": 90,
+    "duration_distribution": {
+      "H": {
+        "count": 186,
+        "p10_s": 1.82,
+        "median_s": 10.68,
+        "p90_s": 41.0
+      },
+      "A": {
+        "count": 176,
+        "p10_s": 1.56,
+        "median_s": 6.140000000000001,
+        "p90_s": 29.32
+      },
+      "D": {
+        "count": 90,
+        "p10_s": 1.548,
+        "median_s": 6.68,
+        "p90_s": 19.96800000000003
+      }
+    },
+    "no_visible_ball_fraction": 0.40692572565263097,
+    "transitions": 450,
+    "rapid_prior_states": 5,
+    "weak_instantaneous_transition_margins": 297,
+    "transitions_near_dropouts": 189,
+    "tag_dominant_transition_emissions": 139,
+    "margin_percentiles": [
+      0.0,
+      0.08115937343340557,
+      1.1069706764779792
+    ],
+    "caution": "Emission dominance is not causal attribution; margins are not calibrated probabilities."
+  },
+  "v2": {
+    "graded_frames": 158857,
+    "spell_count": 365,
+    "dead_segments": 101,
+    "duration_distribution": {
+      "H": {
+        "count": 190,
+        "p10_s": 2.2680000000000002,
+        "median_s": 10.36,
+        "p90_s": 41.384
+      },
+      "A": {
+        "count": 175,
+        "p10_s": 1.496,
+        "median_s": 6.84,
+        "p90_s": 26.967999999999996
+      },
+      "D": {
+        "count": 101,
+        "p10_s": 1.8,
+        "median_s": 7.24,
+        "p90_s": 27.52
+      }
+    },
+    "no_visible_ball_fraction": 0.40692572565263097,
+    "transitions": 464,
+    "rapid_prior_states": 2,
+    "weak_instantaneous_transition_margins": 307,
+    "transitions_near_dropouts": 201,
+    "tag_dominant_transition_emissions": 136,
+    "margin_percentiles": [
+      0.0017224676089020899,
+      0.08573507407728131,
+      1.2371016782020359
+    ],
+    "caution": "Emission dominance is not causal attribution; margins are not calibrated probabilities.",
+    "supported_restart_anchors": 7,
+    "hidden_turnover_brackets": 7
+  },
+  "restart_rejection_summary": {
+    "tagged_windows": 59,
+    "coverage_supported": 58,
+    "stationary_to_launch_supported": 13,
+    "all_conditions_supported": 7
+  },
+  "label_disagreements": 14781,
+  "warning": "Label-free model diagnostics, not accuracy or targets for fitting"
+}

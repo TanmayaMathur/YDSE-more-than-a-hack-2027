@@ -53,10 +53,18 @@ def main():
     parser.add_argument('--data-dir', type=Path, default=Path(os.environ.get('MTAH_DATA_DIR', ROOT / 'data')))
     parser.add_argument('--config', type=Path, default=ROOT / 'configs' / 'final.json')
     parser.add_argument('--out', type=Path, default=ROOT / 'submission' / 'YDSE.csv')
+    parser.add_argument('--model',choices=['v1','v2'],default='v1')
     args = parser.parse_args()
+    args.config=args.config.resolve()
+    if args.model=='v2' and args.out.resolve()==(ROOT/'submission/YDSE.csv').resolve():
+        raise ValueError('V2 must use a candidate path; preserved YDSE.csv may not be overwritten')
     t = time.perf_counter()
     config = json.loads(args.config.read_text(encoding='utf-8'))
-    labels, stats = run(args.data_dir, config)
+    if args.model=='v2':
+        from possession.v2 import run as run_v2
+        labels,stats=run_v2(args.data_dir,config)
+    else:
+        labels, stats = run(args.data_dir, config)
     write_csv(args.out, labels)
     table = pm.read_label_csv(args.out)
     if list(table.columns) != ['frame', 'label']:
@@ -73,9 +81,9 @@ def main():
                       [Path(__file__),args.config])
     code_digest=hashlib.sha256()
     for path in code_files:
-        code_digest.update(str(path.relative_to(ROOT)).replace('\\','/').encode())
+        code_digest.update((str(path.relative_to(ROOT)) if path.is_relative_to(ROOT) else path.name).replace('\\','/').encode())
         code_digest.update(path.read_bytes())
-    record = dict(runtime_s=time.perf_counter()-t, python=platform.python_version(),
+    record = dict(runtime_s=time.perf_counter()-t, python=platform.python_version(),model=args.model,
                   peak_working_set_mb=peak_memory_mb(), input_sha256=input_hashes,
                   code_and_config_sha256=code_digest.hexdigest(),
                   dependencies={p: importlib.metadata.version(p) for p in ['numpy', 'pandas']},

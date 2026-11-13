@@ -1,0 +1,63 @@
+{
+  "review_date_local": "2026-11-14",
+  "official_head": "f8f2629ff1e0985f81d7e59d8413678514ee1530",
+  "prior_release": "8b184b0c626e108679b97a344ef06a661f860d5b",
+  "endpoints": [
+    {
+      "url": "https://api.github.com/repos/metrica-sports/more-than-a-hack-2027",
+      "is_error": false,
+      "result": {
+        "has_issues": false,
+        "has_discussions": false,
+        "open_issues_count": 1
+      }
+    },
+    {
+      "url": "https://api.github.com/repos/metrica-sports/more-than-a-hack-2027/issues?state=open&per_page=100",
+      "is_error": false,
+      "result": {
+        "count": 0
+      }
+    },
+    {
+      "url": "https://api.github.com/repos/metrica-sports/more-than-a-hack-2027/issues?state=closed&per_page=100",
+      "is_error": false,
+      "result": {
+        "count": 0
+      }
+    },
+    {
+      "url": "https://api.github.com/repos/metrica-sports/more-than-a-hack-2027/pulls?state=all&per_page=100",
+      "is_error": true,
+      "result": {
+        "error": "GitHub API error 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/pulls/pulls#list-pull-requests\",\"status\":\"404\"}",
+        "error_code": "NOT_FOUND",
+        "error_data": {
+          "message": "Not Found",
+          "documentation_url": "https://docs.github.com/rest/pulls/pulls#list-pull-requests",
+          "status": "404"
+        }
+      }
+    },
+    {
+      "url": "https://api.github.com/repos/metrica-sports/more-than-a-hack-2027/issues/comments?per_page=100",
+      "is_error": true,
+      "result": {
+        "error": "GitHub API error 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/issues/comments#list-issue-comments-for-a-repository\",\"status\":\"404\"}",
+        "error_code": "NOT_FOUND",
+        "error_data": {
+          "message": "Not Found",
+          "documentation_url": "https://docs.github.com/rest/issues/comments#list-issue-comments-for-a-repository",
+          "status": "404"
+        }
+      }
+    },
+    {
+      "url": "https://api.github.com/repos/metrica-sports/more-than-a-hack-2027/pulls/comments?per_page=100",
+      "is_error": false,
+      "result": {
+        "count": 0
+      }
+    }
+  ]
+}

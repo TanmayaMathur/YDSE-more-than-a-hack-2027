@@ -1,0 +1,38 @@
+{
+  "scenario_sha256": "4203522bf6b6708618387c14e309c5a3660f298cb24ee6ab09ca07143af377e6",
+  "development_seeds": [
+    11,
+    29,
+    47,
+    83
+  ],
+  "holdout_seeds": [
+    1031,
+    2063,
+    4099,
+    8209,
+    16411,
+    32771,
+    65537,
+    131101
+  ],
+  "families": [
+    "stable_gaps",
+    "hidden_turnover",
+    "incidental_touch",
+    "rapid_turnovers",
+    "aerial",
+    "crowded_box",
+    "stationary_live",
+    "restart_uncertain",
+    "ambiguous_tags",
+    "slot_switch",
+    "duplicates_sparse",
+    "conflicting_evidence",
+    "short_control",
+    "long_stoppage_blocks",
+    "zones_directions",
+    "trajectory_corruption"
+  ],
+  "frozen_utc": "2026-11-13T20:41:42.413387+00:00"
+}
