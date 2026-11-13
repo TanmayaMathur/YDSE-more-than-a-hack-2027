@@ -34,7 +34,13 @@ def main():
     digests=[hashlib.sha256((ROOT/p).read_bytes()).hexdigest() for p in outputs]
     if digests[0]!=digests[1] or runs[0]['input_sha256']!=runs[1]['input_sha256'] or runs[0]['code_and_config_sha256']!=runs[1]['code_and_config_sha256']:
         raise RuntimeError('Non-reproducible inputs, code or output')
-    report=dict(status='PASS',outputs=outputs,sha256=digests[0],runs=runs,commands=logs)
+    fallback=ROOT/'submission/fallback/baseline_smooth50.csv'
+    fallback_record=None
+    if fallback.exists():
+        logs.append(execute(['upstream/validate_submission.py',str(fallback)]))
+        fallback_record={'path':str(fallback),'sha256':hashlib.sha256(fallback.read_bytes()).hexdigest(),
+                         'validation':'PASS (official validator CLI)'}
+    report=dict(status='PASS',outputs=outputs,sha256=digests[0],runs=runs,commands=logs,fallback=fallback_record)
     (folder/'release_verification.json').write_text(json.dumps(report,indent=2),encoding='utf-8')
     print('PASS: two independent full parses/inference runs; both exact CSVs officially validated; SHA-256 identical.')
     print(f'SHA-256: {digests[0]}')
