@@ -19,3 +19,5 @@ __pycache__/
 .env
 research/github_updates/raw/
 reports/*private*
+tmp/
+output/

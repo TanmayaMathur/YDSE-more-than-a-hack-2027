@@ -76,6 +76,7 @@ to tune, train or select YDSE or any competitor.
 - `src/possession/`: implemented inference.
 - `configs/final.json`: frozen parameters.
 - `docs/technical_report.md`: submission technical document.
+- `submission/YDSE.pdf`: locally generated three-page version, excluded from Git.
 - `reports/`: actual checks, experiment results and outstanding manual actions.
 - `research/`: official history, public competitor analysis and source links.
 - `scripts/update_github_intelligence.py`: public-only repeatable scan using `gh`.
@@ -95,3 +96,10 @@ cutoff time and submission URL must be checked in the organiser's email.
 Official challenge and scorer: [Metrica Sports](https://github.com/metrica-sports/more-than-a-hack-2027).
 Original model code is MIT licensed. No competitor code or predictions were copied.
 See `upstream/PROVENANCE.md` and the research reports for sources and limitations.
+
+Optional PDF export (not required to reproduce predictions):
+
+```powershell
+.venv\Scripts\python -m pip install -r requirements-pdf.txt
+.venv\Scripts\python scripts/build_technical_pdf.py
+```

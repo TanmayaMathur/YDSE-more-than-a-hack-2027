@@ -62,7 +62,7 @@ the research reports are explicitly distinguished from implemented code.
 - Final possession file: `submission/YDSE.csv`.
 - Identical independent regeneration: `submission/YDSE_reproduced.csv`.
 - Fallback: `submission/fallback/baseline_smooth50.csv`.
-- Technical report: `docs/technical_report.md`, also `submission/YDSE.md`.
+- Technical report: `docs/technical_report.md`, also `submission/YDSE.md` and visually checked `submission/YDSE.pdf`.
 - Public-ready code: this repository's tracked files; inspect `git ls-files`.
 - Exact run/commit/input/output hashes: local `private/release_verification.json`.
 - Final output SHA-256: `45e91b5246b6a05db7f8b5e034185e0bbd4cf6eab7c9dcc2e4b4d027f369ae35`.
@@ -85,7 +85,7 @@ $env:MTAH_DATA_DIR = 'D:\licensed-data'
    `.venv\Scripts\python scripts/update_github_intelligence.py --quick`.
    Inspect changed official rules/scorer files before adopting any change.
 4. Rerun `scripts/verify_release.py --team YDSE`; verify the exact final CSV hash.
-5. Upload YDSE.csv, YDSE.md and the public repository URL through the organiser's
+5. Upload YDSE.csv, YDSE.pdf (or YDSE.md) and the public repository URL through the organiser's
    emailed form under YDSE. Submit one editable team response before the confirmed cutoff.
 
 No future scan is represented as already executed. No public push or form upload is

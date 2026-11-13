@@ -1,0 +1,3 @@
+# Optional documentation export; not needed for inference.
+reportlab==4.4.9
+pypdf==6.21.4

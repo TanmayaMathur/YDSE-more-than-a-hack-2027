@@ -3,6 +3,7 @@
 - `YDSE.csv`: final locally validated candidate.
 - `YDSE_reproduced.csv`: independent regeneration, same bytes.
 - `YDSE.md`: technical report, accepted Markdown alternative to PDF.
+- `YDSE.pdf`: visually checked three-page PDF of the report.
 - `fallback/baseline_smooth50.csv`: independently regenerated official baseline.
 
 Generated CSVs are intentionally ignored by Git. Upload the selected CSV directly
