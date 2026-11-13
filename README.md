@@ -109,7 +109,10 @@ cutoff time and submission URL must be checked in the organiser's email.
 ## Attribution
 
 Official challenge and scorer: [Metrica Sports](https://github.com/metrica-sports/more-than-a-hack-2027).
-Original model code is MIT licensed. No competitor code or predictions were copied.
+Original V1/V2 model code is MIT licensed. V3's small external dead/live head
+adapts the public logistic design and IRLS pattern credited, with its MIT notice,
+in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No competitor weights or
+predictions were used.
 See `upstream/PROVENANCE.md` and the research reports for sources and limitations.
 
 Optional PDF export (not required to reproduce predictions):
@@ -118,3 +121,27 @@ Optional PDF export (not required to reproduce predictions):
 .venv\Scripts\python -m pip install -r requirements-pdf.txt
 .venv\Scripts\python scripts/build_technical_pdf.py
 ```
+
+## Final investigation and separate V3 candidate
+
+V1/V2 remain preserved. V3 blends a small other-match-trained dead/live head
+with V2's D evidence. It improved spellF1 on both newly reserved DFL matches
+across all twelve fixed evaluation views; it also increased false D and lowered
+direct handover recall. This is external evidence, not a competition score.
+The submission of record has not been replaced or published.
+
+Read [final recommendation](reports/final_model_recommendation.md),
+[expanded validation](reports/external_validation_expanded.md), and
+[V3 technical document](docs/technical_report_v3.md) before selecting a candidate.
+
+```powershell
+python -m pytest -q
+python scripts/verify_final_candidate.py
+```
+
+This verifier creates only `submission/candidates/YDSE_v3.csv` and its reproduced
+copy, validates both and checks all sixteen protected V1/V2 artifacts. It needs
+the existing local preservation manifest and official data. For a fresh source
+checkout without those private historical files, use the single-run V3 commands
+in the technical document. The small supplied JSON weights permit inference
+without external training-data downloads; see [model provenance](models/README.md).

@@ -1,0 +1,12 @@
+{
+  "scenario_sha256": "4a65bf83ef98970d34eadf84e777d5ae9ad17f6d603f176dcdcd18efcdc57418",
+  "development_seeds": [
+    31,
+    67
+  ],
+  "holdout_seeds": [
+    4093,
+    16381,
+    65521
+  ]
+}

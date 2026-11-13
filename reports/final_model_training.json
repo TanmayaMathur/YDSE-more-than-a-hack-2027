@@ -1,0 +1,25 @@
+{
+  "training": {
+    "match_id": "J03WOH",
+    "title": "Fortuna D\u00fcsseldorf:SSV Jahn Regensburg",
+    "rows": 137214,
+    "fps": 25,
+    "pitch": [
+      105.0,
+      68.0
+    ],
+    "players": 39,
+    "source": "https://doi.org/10.6084/m9.figshare.28196177.v1",
+    "licence": "CC BY 4.0",
+    "target_fields": "BallStatus and BallPossession, isolated from Tracking",
+    "unknown_reference_frames": 0
+  },
+  "training_frames": 82329,
+  "l2": 0.05,
+  "deterministic_fit": "Two fits exactly equal",
+  "model_sha256": "0562bf7f6850030346193e88484439b7aa8e0ffb05d273ec035c76e9cd18e4dd",
+  "seconds": 16.35468449999462,
+  "warning": "Development match explicitly used for training; not an untouched evaluation match",
+  "initial_windows_bytes_sha256": "42279e4a99e40f8affa0aed115663c80ed239f5bb40aa15a451048cd4615a77c",
+  "canonicalization": "LF text only, numeric model unchanged, before new evaluation outcomes"
+}

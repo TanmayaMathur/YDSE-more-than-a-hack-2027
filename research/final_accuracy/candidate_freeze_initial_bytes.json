@@ -1,0 +1,28 @@
+{
+  "frozen_utc": "2026-11-13T21:57:05.892022+00:00",
+  "files": {
+    "src/possession/data.py": "9a20a5cbb359a5be5ef3bba9a430ea1c983a87bfa462a1e509ade370e554c518",
+    "src/possession/official.py": "6ee976c57eee84cac94fce1d184c92893595a12fa338904121cccaa926811455",
+    "src/possession/preprocessing.py": "d4fed98dd865630900c9dcd8123f278a24f75e5aa64d9c3a41b27f5283495889",
+    "src/possession/features.py": "7ff2f982ad3321fc3ddec5fe29df60b66b2563f17f08b0246f9affbbbd3702d0",
+    "src/possession/tagging.py": "dafece2bfac357bce816f1ff6bcbb2961de7475a7c60b29620f06b45d6bfbc2d",
+    "src/possession/restarts.py": "89b57752ee5d29605fc0e16c89f0340e237752e5f7cff2a8eadd19047008d227",
+    "src/possession/temporal.py": "05246be25ec4ad620f7150b508c689149457405224a1d3d696ef366c644d158d",
+    "src/possession/pipeline.py": "2d35ba88ac3d432fb452ec1c4930c4ca76179c09ce3391cfb681f0d09903339c",
+    "src/possession/v2.py": "020a0e3d2d7ededf49f7ec8ff189df7d38abf26a5ed86c7febe4917e91eae83e",
+    "src/possession/learned_dead.py": "f8847f8a63cb5555bfc2a2f673c228da196fb6004a591b443bf0917bc68ce5f3",
+    "src/possession/live_dead_experiment.py": "5a27c8f36bd61b43b71e585a2d98b59aaedb15b8c15ae3b03218d22b730261a8",
+    "src/possession/v3.py": "d92836a3550fcb99ab329f73404bdcb6520ed4753901002d56bdca9da1368639",
+    "src/possession/final_scenarios.py": "a11f23dce392261125834cb1f97aba4ccb3322d55eebdcaf5b85af6b657e3224",
+    "configs/audit_v3.json": "c36e2c81e0b2a64a2330dd000071f8f8d8e65570ac2290107e19fd5e2668eb53",
+    "models/ydse_live_dead.json": "42279e4a99e40f8affa0aed115663c80ed239f5bb40aa15a451048cd4615a77c"
+  },
+  "training_match": "J03WOH (development)",
+  "new_evaluation_matches": [
+    "J03WQQ",
+    "J03WN1"
+  ],
+  "selected_mode": "blend",
+  "decision_basis": "Development half split plus fixture-valid stress guard; no new match outcomes read",
+  "restriction": "Do not refit/change this candidate after inspecting the new match outcomes"
+}

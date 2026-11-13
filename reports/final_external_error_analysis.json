@@ -1,0 +1,377 @@
+{
+  "rows": [
+    {
+      "match": "J03WQQ",
+      "condition": "clean",
+      "paired_v3_minus_v2": {
+        "low95": 0.03503647603422018,
+        "high95": 0.07623315363881412,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 37,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 101,
+          "lost": 0,
+          "gained": 2
+        },
+        "3": {
+          "n": 155,
+          "lost": 0,
+          "gained": 4
+        }
+      },
+      "direct_handovers_lost": 3,
+      "direct_handovers_gained": 1,
+      "lost_handovers_with_D_within_1s": 3
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "burst1729",
+      "paired_v3_minus_v2": {
+        "low95": 0.023644057056453296,
+        "high95": 0.06802445963308366,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 37,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 101,
+          "lost": 1,
+          "gained": 2
+        },
+        "3": {
+          "n": 155,
+          "lost": 1,
+          "gained": 3
+        }
+      },
+      "direct_handovers_lost": 5,
+      "direct_handovers_gained": 1,
+      "lost_handovers_with_D_within_1s": 3
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "burst3253",
+      "paired_v3_minus_v2": {
+        "low95": 0.02089985486211904,
+        "high95": 0.06037735849056597,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 37,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 101,
+          "lost": 0,
+          "gained": 0
+        },
+        "3": {
+          "n": 155,
+          "lost": 0,
+          "gained": 0
+        }
+      },
+      "direct_handovers_lost": 3,
+      "direct_handovers_gained": 0,
+      "lost_handovers_with_D_within_1s": 0
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "coordinate_noise",
+      "paired_v3_minus_v2": {
+        "low95": 0.010928426764492235,
+        "high95": 0.045656177156177195,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 37,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 101,
+          "lost": 0,
+          "gained": 0
+        },
+        "3": {
+          "n": 155,
+          "lost": 0,
+          "gained": 0
+        }
+      },
+      "direct_handovers_lost": 1,
+      "direct_handovers_gained": 1,
+      "lost_handovers_with_D_within_1s": 0
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "slot_switches",
+      "paired_v3_minus_v2": {
+        "low95": 0.03666697796211354,
+        "high95": 0.0775509654736726,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 37,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 101,
+          "lost": 0,
+          "gained": 2
+        },
+        "3": {
+          "n": 155,
+          "lost": 0,
+          "gained": 4
+        }
+      },
+      "direct_handovers_lost": 3,
+      "direct_handovers_gained": 1,
+      "lost_handovers_with_D_within_1s": 3
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "combined",
+      "paired_v3_minus_v2": {
+        "low95": 0.014979922038745546,
+        "high95": 0.05236658766070537,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 37,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 101,
+          "lost": 0,
+          "gained": 0
+        },
+        "3": {
+          "n": 155,
+          "lost": 0,
+          "gained": 0
+        }
+      },
+      "direct_handovers_lost": 1,
+      "direct_handovers_gained": 1,
+      "lost_handovers_with_D_within_1s": 0
+    },
+    {
+      "match": "J03WN1",
+      "condition": "clean",
+      "paired_v3_minus_v2": {
+        "low95": 0.06870924556213016,
+        "high95": 0.11696627218934912,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 76,
+          "lost": 0,
+          "gained": 1
+        },
+        "2": {
+          "n": 171,
+          "lost": 0,
+          "gained": 5
+        },
+        "3": {
+          "n": 238,
+          "lost": 0,
+          "gained": 11
+        }
+      },
+      "direct_handovers_lost": 13,
+      "direct_handovers_gained": 1,
+      "lost_handovers_with_D_within_1s": 5
+    },
+    {
+      "match": "J03WN1",
+      "condition": "burst1729",
+      "paired_v3_minus_v2": {
+        "low95": 0.05184491405816823,
+        "high95": 0.0940558684913554,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 76,
+          "lost": 0,
+          "gained": 1
+        },
+        "2": {
+          "n": 171,
+          "lost": 1,
+          "gained": 3
+        },
+        "3": {
+          "n": 238,
+          "lost": 1,
+          "gained": 4
+        }
+      },
+      "direct_handovers_lost": 11,
+      "direct_handovers_gained": 0,
+      "lost_handovers_with_D_within_1s": 5
+    },
+    {
+      "match": "J03WN1",
+      "condition": "burst3253",
+      "paired_v3_minus_v2": {
+        "low95": 0.05337432746526074,
+        "high95": 0.09396147391510118,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 76,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 171,
+          "lost": 0,
+          "gained": 4
+        },
+        "3": {
+          "n": 238,
+          "lost": 0,
+          "gained": 7
+        }
+      },
+      "direct_handovers_lost": 7,
+      "direct_handovers_gained": 1,
+      "lost_handovers_with_D_within_1s": 3
+    },
+    {
+      "match": "J03WN1",
+      "condition": "coordinate_noise",
+      "paired_v3_minus_v2": {
+        "low95": 0.0012561049158615937,
+        "high95": 0.024174180788288046,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 76,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 171,
+          "lost": 0,
+          "gained": 0
+        },
+        "3": {
+          "n": 238,
+          "lost": 0,
+          "gained": 0
+        }
+      },
+      "direct_handovers_lost": 6,
+      "direct_handovers_gained": 0,
+      "lost_handovers_with_D_within_1s": 0
+    },
+    {
+      "match": "J03WN1",
+      "condition": "slot_switches",
+      "paired_v3_minus_v2": {
+        "low95": 0.06831599526066352,
+        "high95": 0.11656729857819907,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 76,
+          "lost": 0,
+          "gained": 1
+        },
+        "2": {
+          "n": 171,
+          "lost": 0,
+          "gained": 5
+        },
+        "3": {
+          "n": 238,
+          "lost": 0,
+          "gained": 11
+        }
+      },
+      "direct_handovers_lost": 13,
+      "direct_handovers_gained": 1,
+      "lost_handovers_with_D_within_1s": 5
+    },
+    {
+      "match": "J03WN1",
+      "condition": "combined",
+      "paired_v3_minus_v2": {
+        "low95": 0.0017210552791563007,
+        "high95": 0.020462842542436348,
+        "draws": 1000,
+        "seed": 20261114,
+        "method": "Paired GT-spell resampling, fixed prediction counts; exploratory single-match interval"
+      },
+      "short_spell_changes": {
+        "1": {
+          "n": 76,
+          "lost": 0,
+          "gained": 0
+        },
+        "2": {
+          "n": 171,
+          "lost": 0,
+          "gained": 0
+        },
+        "3": {
+          "n": 238,
+          "lost": 0,
+          "gained": 1
+        }
+      },
+      "direct_handovers_lost": 7,
+      "direct_handovers_gained": 2,
+      "lost_handovers_with_D_within_1s": 0
+    }
+  ],
+  "uncertainty": "Exploratory same-match paired spell resampling, fixed prediction counts; not match-level or competition confidence intervals"
+}

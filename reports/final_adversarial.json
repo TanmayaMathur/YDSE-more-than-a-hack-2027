@@ -1,0 +1,1596 @@
+{
+  "design": {
+    "seeds": [
+      27011,
+      36007,
+      49157
+    ],
+    "families": [
+      "trajectory_corruption",
+      "slot_switch",
+      "rapid_turnovers",
+      "conflicting_evidence",
+      "strong_noise_2m"
+    ],
+    "role": "Additional post-freeze diagnostics, not the preregistered holdout or model selection"
+  },
+  "rows": [
+    {
+      "family": "trajectory_corruption",
+      "seed": 27011,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "trajectory_corruption",
+      "seed": 27011,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "trajectory_corruption",
+      "seed": 27011,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "trajectory_corruption",
+      "seed": 36007,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "trajectory_corruption",
+      "seed": 36007,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "trajectory_corruption",
+      "seed": 36007,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "trajectory_corruption",
+      "seed": 49157,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "trajectory_corruption",
+      "seed": 49157,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "trajectory_corruption",
+      "seed": 49157,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 27011,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 27011,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 27011,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 36007,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 36007,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 36007,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 49157,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 49157,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "slot_switch",
+      "seed": 49157,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 27011,
+      "variant": "v1",
+      "spell_f1_mean": 0.7538461538461538,
+      "macro_f1": 0.6281165370418558,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 11,
+      "spurious_spells_at50": 2,
+      "missed_spells_at50": 6,
+      "short_recall": {
+        "1": {
+          "n": 6,
+          "recall": 0.6666666666666666
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.5384615384615384
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.5384615384615384
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.7142857142857143,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 27011,
+      "variant": "v2",
+      "spell_f1_mean": 0.7538461538461538,
+      "macro_f1": 0.6281165370418558,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 11,
+      "spurious_spells_at50": 2,
+      "missed_spells_at50": 6,
+      "short_recall": {
+        "1": {
+          "n": 6,
+          "recall": 0.6666666666666666
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.5384615384615384
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.5384615384615384
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.7142857142857143,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 27011,
+      "variant": "v3",
+      "spell_f1_mean": 0.7538461538461538,
+      "macro_f1": 0.6281165370418558,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 11,
+      "spurious_spells_at50": 2,
+      "missed_spells_at50": 6,
+      "short_recall": {
+        "1": {
+          "n": 6,
+          "recall": 0.6666666666666666
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.5384615384615384
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.5384615384615384
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.7142857142857143,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 36007,
+      "variant": "v1",
+      "spell_f1_mean": 0.6166666666666668,
+      "macro_f1": 0.5986686612748248,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 9,
+      "spurious_spells_at50": 2,
+      "missed_spells_at50": 8,
+      "short_recall": {
+        "1": {
+          "n": 5,
+          "recall": 0.2
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.38461538461538464
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.38461538461538464
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.5714285714285714,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 36007,
+      "variant": "v2",
+      "spell_f1_mean": 0.6166666666666668,
+      "macro_f1": 0.5986686612748248,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 9,
+      "spurious_spells_at50": 2,
+      "missed_spells_at50": 8,
+      "short_recall": {
+        "1": {
+          "n": 5,
+          "recall": 0.2
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.38461538461538464
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.38461538461538464
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.5714285714285714,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 36007,
+      "variant": "v3",
+      "spell_f1_mean": 0.6166666666666668,
+      "macro_f1": 0.5986686612748248,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 9,
+      "spurious_spells_at50": 2,
+      "missed_spells_at50": 8,
+      "short_recall": {
+        "1": {
+          "n": 5,
+          "recall": 0.2
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.38461538461538464
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.38461538461538464
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.5714285714285714,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 49157,
+      "variant": "v1",
+      "spell_f1_mean": 0.6,
+      "macro_f1": 0.6035410922239391,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 9,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 9,
+      "short_recall": {
+        "1": {
+          "n": 7,
+          "recall": 0.2857142857142857
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.3076923076923077
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.3076923076923077
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.5714285714285714,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 49157,
+      "variant": "v2",
+      "spell_f1_mean": 0.6,
+      "macro_f1": 0.6035410922239391,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 9,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 9,
+      "short_recall": {
+        "1": {
+          "n": 7,
+          "recall": 0.2857142857142857
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.3076923076923077
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.3076923076923077
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.5714285714285714,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "rapid_turnovers",
+      "seed": 49157,
+      "variant": "v3",
+      "spell_f1_mean": 0.6,
+      "macro_f1": 0.6035410922239391,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 15,
+      "n_pred_spells": 9,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 9,
+      "short_recall": {
+        "1": {
+          "n": 7,
+          "recall": 0.2857142857142857
+        },
+        "2": {
+          "n": 13,
+          "recall": 0.3076923076923077
+        },
+        "3": {
+          "n": 13,
+          "recall": 0.3076923076923077
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.5714285714285714,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 27011,
+      "variant": "v1",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 27011,
+      "variant": "v2",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 27011,
+      "variant": "v3",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 36007,
+      "variant": "v1",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 36007,
+      "variant": "v2",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 36007,
+      "variant": "v3",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 49157,
+      "variant": "v1",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 49157,
+      "variant": "v2",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "conflicting_evidence",
+      "seed": 49157,
+      "variant": "v3",
+      "spell_f1_mean": 0.2,
+      "macro_f1": 0.282051282051282,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 3,
+      "spurious_spells_at50": 3,
+      "missed_spells_at50": 1,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 27011,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 27011,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 27011,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 36007,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 36007,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 36007,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 49157,
+      "variant": "v1",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 49157,
+      "variant": "v2",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "family": "strong_noise_2m",
+      "seed": 49157,
+      "variant": "v3",
+      "spell_f1_mean": 1.0,
+      "macro_f1": 0.3333333333333333,
+      "alive_dead_f1": 1.0,
+      "n_gt_spells": 1,
+      "n_pred_spells": 1,
+      "spurious_spells_at50": 0,
+      "missed_spells_at50": 0,
+      "short_recall": {
+        "1": {
+          "n": 0,
+          "recall": null
+        },
+        "2": {
+          "n": 0,
+          "recall": null
+        },
+        "3": {
+          "n": 0,
+          "recall": null
+        }
+      },
+      "false_dead_on_live": 0.0,
+      "missed_dead": null,
+      "turnover_recall_1s": 0.0,
+      "dead_onset_f1_1s": 0.0,
+      "dead_exit_f1_1s": 0.0,
+      "excess_fragments_of_long_spells": 0,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    }
+  ],
+  "candidate_unchanged": true,
+  "script_sha256": "b6bc91f9e2e60a5979d634edf01656721416aaedaf9e85351a0ab5763a7e0f14"
+}

@@ -1,0 +1,1367 @@
+{
+  "matches": [
+    {
+      "match_id": "J03WQQ",
+      "title": "Fortuna D\u00fcsseldorf:FC St. Pauli",
+      "rows": 142345,
+      "fps": 25,
+      "pitch": [
+        105.0,
+        68.0
+      ],
+      "players": 40,
+      "source": "https://doi.org/10.6084/m9.figshare.28196177.v1",
+      "licence": "CC BY 4.0",
+      "target_fields": "BallStatus and BallPossession, isolated from Tracking",
+      "unknown_reference_frames": 0
+    },
+    {
+      "match_id": "J03WN1",
+      "title": "VfL Bochum 1848:Bayer 04 Leverkusen",
+      "rows": 141561,
+      "fps": 25,
+      "pitch": [
+        105.0,
+        68.0
+      ],
+      "players": 40,
+      "source": "https://doi.org/10.6084/m9.figshare.28196177.v1",
+      "licence": "CC BY 4.0",
+      "target_fields": "BallStatus and BallPossession, isolated from Tracking",
+      "unknown_reference_frames": 0
+    }
+  ],
+  "rows": [
+    {
+      "match": "J03WQQ",
+      "condition": "clean",
+      "variant": "v1",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.4242587601078167,
+      "macro_f1": 0.6842429233293098,
+      "alive_dead_f1": 0.8413081376471704,
+      "n_gt_spells": 401,
+      "n_pred_spells": 341,
+      "spurious_spells_at50": 182,
+      "missed_spells_at50": 242,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.04516129032258064
+        }
+      },
+      "false_dead_on_live": 0.0016597116843702579,
+      "missed_dead": 0.5453934095494284,
+      "turnover_recall_1s": 0.2947019867549669,
+      "dead_onset_f1_1s": 0.14545454545454545,
+      "dead_exit_f1_1s": 0.39263803680981596,
+      "excess_fragments_of_long_spells": 5,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "clean",
+      "variant": "v2",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.4247978436657681,
+      "macro_f1": 0.6865790096292,
+      "alive_dead_f1": 0.8425707753648202,
+      "n_gt_spells": 401,
+      "n_pred_spells": 341,
+      "spurious_spells_at50": 182,
+      "missed_spells_at50": 242,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.04516129032258064
+        }
+      },
+      "false_dead_on_live": 0.0016597116843702579,
+      "missed_dead": 0.5402203714241374,
+      "turnover_recall_1s": 0.2947019867549669,
+      "dead_onset_f1_1s": 0.14545454545454545,
+      "dead_exit_f1_1s": 0.40490797546012264,
+      "excess_fragments_of_long_spells": 5,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "clean",
+      "variant": "v3",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.47989130434782606,
+      "macro_f1": 0.8211155342235325,
+      "alive_dead_f1": 0.9307473372912636,
+      "n_gt_spells": 401,
+      "n_pred_spells": 335,
+      "spurious_spells_at50": 157,
+      "missed_spells_at50": 223,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.0297029702970297
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.07096774193548387
+        }
+      },
+      "false_dead_on_live": 0.007527977996965099,
+      "missed_dead": 0.20386943251771766,
+      "turnover_recall_1s": 0.28807947019867547,
+      "dead_onset_f1_1s": 0.4623115577889447,
+      "dead_exit_f1_1s": 0.6091370558375634,
+      "excess_fragments_of_long_spells": 6,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "burst1729",
+      "variant": "v1",
+      "missing_ball_fraction": 0.40292950226562224,
+      "spell_f1_mean": 0.34710252600297176,
+      "macro_f1": 0.6550057319663228,
+      "alive_dead_f1": 0.829834139701422,
+      "n_gt_spells": 401,
+      "n_pred_spells": 272,
+      "spurious_spells_at50": 153,
+      "missed_spells_at50": 282,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.025806451612903226
+        }
+      },
+      "false_dead_on_live": 0.0026436836115326253,
+      "missed_dead": 0.591105823116583,
+      "turnover_recall_1s": 0.2052980132450331,
+      "dead_onset_f1_1s": 0.09411764705882354,
+      "dead_exit_f1_1s": 0.35714285714285715,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 125,
+      "hidden_turnover_recall_1s": 0.08,
+      "no_ball_accuracy": 0.6231540406241827
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "burst1729",
+      "variant": "v2",
+      "missing_ball_fraction": 0.40292950226562224,
+      "spell_f1_mean": 0.35384615384615387,
+      "macro_f1": 0.6679331149378435,
+      "alive_dead_f1": 0.8360188065962247,
+      "n_gt_spells": 401,
+      "n_pred_spells": 275,
+      "spurious_spells_at50": 153,
+      "missed_spells_at50": 279,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.019801980198019802
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.03225806451612903
+        }
+      },
+      "false_dead_on_live": 0.002916350531107739,
+      "missed_dead": 0.5646888417567637,
+      "turnover_recall_1s": 0.2152317880794702,
+      "dead_onset_f1_1s": 0.10588235294117647,
+      "dead_exit_f1_1s": 0.39285714285714285,
+      "excess_fragments_of_long_spells": 3,
+      "hidden_turnovers": 125,
+      "hidden_turnover_recall_1s": 0.104,
+      "no_ball_accuracy": 0.6493592537703775
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "burst1729",
+      "variant": "v3",
+      "missing_ball_fraction": 0.40292950226562224,
+      "spell_f1_mean": 0.3994091580502216,
+      "macro_f1": 0.7752540435744324,
+      "alive_dead_f1": 0.9008763812530619,
+      "n_gt_spells": 401,
+      "n_pred_spells": 276,
+      "spurious_spells_at50": 139,
+      "missed_spells_at50": 264,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.0297029702970297
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.04516129032258064
+        }
+      },
+      "false_dead_on_live": 0.018991843702579666,
+      "missed_dead": 0.28637939061610884,
+      "turnover_recall_1s": 0.20198675496688742,
+      "dead_onset_f1_1s": 0.3121951219512195,
+      "dead_exit_f1_1s": 0.4926108374384236,
+      "excess_fragments_of_long_spells": 8,
+      "hidden_turnovers": 125,
+      "hidden_turnover_recall_1s": 0.088,
+      "no_ball_accuracy": 0.7300322552523756
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "burst3253",
+      "variant": "v1",
+      "missing_ball_fraction": 0.4003863851909094,
+      "spell_f1_mean": 0.3440233236151603,
+      "macro_f1": 0.6522826431602339,
+      "alive_dead_f1": 0.8302975315825287,
+      "n_gt_spells": 401,
+      "n_pred_spells": 285,
+      "spurious_spells_at50": 168,
+      "missed_spells_at50": 284,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.03225806451612903
+        }
+      },
+      "false_dead_on_live": 0.0018849582701062216,
+      "missed_dead": 0.5907092235269774,
+      "turnover_recall_1s": 0.1986754966887417,
+      "dead_onset_f1_1s": 0.1111111111111111,
+      "dead_exit_f1_1s": 0.28750000000000003,
+      "excess_fragments_of_long_spells": 3,
+      "hidden_turnovers": 131,
+      "hidden_turnover_recall_1s": 0.11450381679389313,
+      "no_ball_accuracy": 0.6183215482603127
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "burst3253",
+      "variant": "v2",
+      "missing_ball_fraction": 0.4003863851909094,
+      "spell_f1_mean": 0.36168359941944844,
+      "macro_f1": 0.6675631104313903,
+      "alive_dead_f1": 0.8370497427101201,
+      "n_gt_spells": 401,
+      "n_pred_spells": 288,
+      "spurious_spells_at50": 163,
+      "missed_spells_at50": 276,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.03225806451612903
+        }
+      },
+      "false_dead_on_live": 0.0020390743550834597,
+      "missed_dead": 0.5621885399962064,
+      "turnover_recall_1s": 0.20198675496688742,
+      "dead_onset_f1_1s": 0.10778443113772455,
+      "dead_exit_f1_1s": 0.36363636363636365,
+      "excess_fragments_of_long_spells": 3,
+      "hidden_turnovers": 131,
+      "hidden_turnover_recall_1s": 0.12213740458015267,
+      "no_ball_accuracy": 0.6422192199041987
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "burst3253",
+      "variant": "v3",
+      "missing_ball_fraction": 0.4003863851909094,
+      "spell_f1_mean": 0.4017416545718433,
+      "macro_f1": 0.7730441389290384,
+      "alive_dead_f1": 0.9009935798622943,
+      "n_gt_spells": 401,
+      "n_pred_spells": 288,
+      "spurious_spells_at50": 148,
+      "missed_spells_at50": 261,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.03225806451612903
+        }
+      },
+      "false_dead_on_live": 0.012578243550834598,
+      "missed_dead": 0.29734623144172573,
+      "turnover_recall_1s": 0.19205298013245034,
+      "dead_onset_f1_1s": 0.3414634146341463,
+      "dead_exit_f1_1s": 0.5123152709359605,
+      "excess_fragments_of_long_spells": 5,
+      "hidden_turnovers": 131,
+      "hidden_turnover_recall_1s": 0.11450381679389313,
+      "no_ball_accuracy": 0.721878125383819
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "coordinate_noise",
+      "variant": "v1",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.3793296089385475,
+      "macro_f1": 0.474689708488164,
+      "alive_dead_f1": 0.757739168761778,
+      "n_gt_spells": 401,
+      "n_pred_spells": 315,
+      "spurious_spells_at50": 182,
+      "missed_spells_at50": 268,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.04516129032258064
+        }
+      },
+      "false_dead_on_live": 0.001339624430955994,
+      "missed_dead": 0.9268704843688031,
+      "turnover_recall_1s": 0.2947019867549669,
+      "dead_onset_f1_1s": 0.16513761467889906,
+      "dead_exit_f1_1s": 0.07407407407407406,
+      "excess_fragments_of_long_spells": 5,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "coordinate_noise",
+      "variant": "v2",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.3815384615384615,
+      "macro_f1": 0.48031926912947215,
+      "alive_dead_f1": 0.7593549143161064,
+      "n_gt_spells": 401,
+      "n_pred_spells": 314,
+      "spurious_spells_at50": 180,
+      "missed_spells_at50": 267,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.04516129032258064
+        }
+      },
+      "false_dead_on_live": 0.0013751896813353566,
+      "missed_dead": 0.9186281102891728,
+      "turnover_recall_1s": 0.2947019867549669,
+      "dead_onset_f1_1s": 0.1834862385321101,
+      "dead_exit_f1_1s": 0.1111111111111111,
+      "excess_fragments_of_long_spells": 5,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "coordinate_noise",
+      "variant": "v3",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.40874316939890704,
+      "macro_f1": 0.5949207619919239,
+      "alive_dead_f1": 0.7989623742092133,
+      "n_gt_spells": 401,
+      "n_pred_spells": 331,
+      "spurious_spells_at50": 183,
+      "missed_spells_at50": 253,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.04516129032258064
+        }
+      },
+      "false_dead_on_live": 0.001363334597875569,
+      "missed_dead": 0.729001776076423,
+      "turnover_recall_1s": 0.2947019867549669,
+      "dead_onset_f1_1s": 0.16666666666666666,
+      "dead_exit_f1_1s": 0.23943661971830987,
+      "excess_fragments_of_long_spells": 5,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "slot_switches",
+      "variant": "v1",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.4242587601078167,
+      "macro_f1": 0.6842508124101662,
+      "alive_dead_f1": 0.8413123401534527,
+      "n_gt_spells": 401,
+      "n_pred_spells": 341,
+      "spurious_spells_at50": 182,
+      "missed_spells_at50": 242,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.04516129032258064
+        }
+      },
+      "false_dead_on_live": 0.0016597116843702579,
+      "missed_dead": 0.5453761660890107,
+      "turnover_recall_1s": 0.2947019867549669,
+      "dead_onset_f1_1s": 0.14545454545454545,
+      "dead_exit_f1_1s": 0.39263803680981596,
+      "excess_fragments_of_long_spells": 5,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "slot_switches",
+      "variant": "v2",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.4236877523553163,
+      "macro_f1": 0.6838980742102683,
+      "alive_dead_f1": 0.8411190683087127,
+      "n_gt_spells": 401,
+      "n_pred_spells": 342,
+      "spurious_spells_at50": 184,
+      "missed_spells_at50": 243,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.009900990099009901
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.04516129032258064
+        }
+      },
+      "false_dead_on_live": 0.0016597116843702579,
+      "missed_dead": 0.546169365268222,
+      "turnover_recall_1s": 0.2947019867549669,
+      "dead_onset_f1_1s": 0.14545454545454545,
+      "dead_exit_f1_1s": 0.40490797546012264,
+      "excess_fragments_of_long_spells": 5,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "slot_switches",
+      "variant": "v3",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.48054421768707484,
+      "macro_f1": 0.8220199202861466,
+      "alive_dead_f1": 0.9314403969825764,
+      "n_gt_spells": 401,
+      "n_pred_spells": 334,
+      "spurious_spells_at50": 156,
+      "missed_spells_at50": 223,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.0297029702970297
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.07096774193548387
+        }
+      },
+      "false_dead_on_live": 0.0075398330804248865,
+      "missed_dead": 0.20154156536133672,
+      "turnover_recall_1s": 0.28807947019867547,
+      "dead_onset_f1_1s": 0.46464646464646464,
+      "dead_exit_f1_1s": 0.6122448979591837,
+      "excess_fragments_of_long_spells": 6,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "combined",
+      "variant": "v1",
+      "missing_ball_fraction": 0.4104815764515789,
+      "spell_f1_mean": 0.2949924127465858,
+      "macro_f1": 0.4355765262403914,
+      "alive_dead_f1": 0.7511468196353336,
+      "n_gt_spells": 401,
+      "n_pred_spells": 258,
+      "spurious_spells_at50": 163,
+      "missed_spells_at50": 306,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.0
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.01935483870967742
+        }
+      },
+      "false_dead_on_live": 0.00027266691957511383,
+      "missed_dead": 0.9630989947062577,
+      "turnover_recall_1s": 0.17880794701986755,
+      "dead_onset_f1_1s": 0.05,
+      "dead_exit_f1_1s": 0.050420168067226885,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 114,
+      "hidden_turnover_recall_1s": 0.13157894736842105,
+      "no_ball_accuracy": 0.47487591990415884
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "combined",
+      "variant": "v2",
+      "missing_ball_fraction": 0.4104815764515789,
+      "spell_f1_mean": 0.2986425339366516,
+      "macro_f1": 0.45913483845822123,
+      "alive_dead_f1": 0.7575305669598339,
+      "n_gt_spells": 401,
+      "n_pred_spells": 262,
+      "spurious_spells_at50": 164,
+      "missed_spells_at50": 303,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.0
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.025806451612903226
+        }
+      },
+      "false_dead_on_live": 0.00034379742033383915,
+      "missed_dead": 0.9303019329919128,
+      "turnover_recall_1s": 0.18874172185430463,
+      "dead_onset_f1_1s": 0.0625,
+      "dead_exit_f1_1s": 0.06299212598425197,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 114,
+      "hidden_turnover_recall_1s": 0.14912280701754385,
+      "no_ball_accuracy": 0.5007701523190142
+    },
+    {
+      "match": "J03WQQ",
+      "condition": "combined",
+      "variant": "v3",
+      "missing_ball_fraction": 0.4104815764515789,
+      "spell_f1_mean": 0.3318903318903319,
+      "macro_f1": 0.6372795609244549,
+      "alive_dead_f1": 0.8240507880481407,
+      "n_gt_spells": 401,
+      "n_pred_spells": 292,
+      "spurious_spells_at50": 177,
+      "missed_spells_at50": 286,
+      "short_recall": {
+        "1": {
+          "n": 37,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 101,
+          "recall": 0.0
+        },
+        "3": {
+          "n": 155,
+          "recall": 0.025806451612903226
+        }
+      },
+      "false_dead_on_live": 0.0036158004552352047,
+      "missed_dead": 0.6136257824220165,
+      "turnover_recall_1s": 0.18874172185430463,
+      "dead_onset_f1_1s": 0.0558659217877095,
+      "dead_exit_f1_1s": 0.24858757062146894,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 114,
+      "hidden_turnover_recall_1s": 0.14035087719298245,
+      "no_ball_accuracy": 0.6479205887386617
+    },
+    {
+      "match": "J03WN1",
+      "condition": "clean",
+      "variant": "v1",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.33341260404280615,
+      "macro_f1": 0.6716053397568286,
+      "alive_dead_f1": 0.8060052327263921,
+      "n_gt_spells": 500,
+      "n_pred_spells": 341,
+      "spurious_spells_at50": 204,
+      "missed_spells_at50": 363,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.023391812865497075
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.04201680672268908
+        }
+      },
+      "false_dead_on_live": 0.002062096903929684,
+      "missed_dead": 0.4469009619588981,
+      "turnover_recall_1s": 0.24873096446700507,
+      "dead_onset_f1_1s": 0.2513089005235602,
+      "dead_exit_f1_1s": 0.4,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "clean",
+      "variant": "v2",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.3318343195266273,
+      "macro_f1": 0.6764289968436937,
+      "alive_dead_f1": 0.8096797541499069,
+      "n_gt_spells": 500,
+      "n_pred_spells": 345,
+      "spurious_spells_at50": 208,
+      "missed_spells_at50": 363,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.023391812865497075
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.04201680672268908
+        }
+      },
+      "false_dead_on_live": 0.0020182225017184143,
+      "missed_dead": 0.4364615216440752,
+      "turnover_recall_1s": 0.24873096446700507,
+      "dead_onset_f1_1s": 0.23589743589743592,
+      "dead_exit_f1_1s": 0.4020618556701031,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "clean",
+      "variant": "v3",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.42350000000000004,
+      "macro_f1": 0.8280583154954471,
+      "alive_dead_f1": 0.9492816001455695,
+      "n_gt_spells": 500,
+      "n_pred_spells": 300,
+      "spurious_spells_at50": 124,
+      "missed_spells_at50": 324,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.02631578947368421
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.05263157894736842
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.08823529411764706
+        }
+      },
+      "false_dead_on_live": 0.008146014010559106,
+      "missed_dead": 0.09141342369916922,
+      "turnover_recall_1s": 0.2182741116751269,
+      "dead_onset_f1_1s": 0.6066350710900474,
+      "dead_exit_f1_1s": 0.583732057416268,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "burst1729",
+      "variant": "v1",
+      "missing_ball_fraction": 0.4025614399446175,
+      "spell_f1_mean": 0.23620899149453217,
+      "macro_f1": 0.6133154849783432,
+      "alive_dead_f1": 0.7767079791047833,
+      "n_gt_spells": 500,
+      "n_pred_spells": 323,
+      "spurious_spells_at50": 226,
+      "missed_spells_at50": 403,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.017543859649122806
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.029411764705882353
+        }
+      },
+      "false_dead_on_live": 0.0019012240958216945,
+      "missed_dead": 0.5344064276344557,
+      "turnover_recall_1s": 0.15228426395939088,
+      "dead_onset_f1_1s": 0.13852813852813856,
+      "dead_exit_f1_1s": 0.2608695652173913,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 143,
+      "hidden_turnover_recall_1s": 0.06993006993006994,
+      "no_ball_accuracy": 0.549599031358029
+    },
+    {
+      "match": "J03WN1",
+      "condition": "burst1729",
+      "variant": "v2",
+      "missing_ball_fraction": 0.4025614399446175,
+      "spell_f1_mean": 0.2397058823529412,
+      "macro_f1": 0.6283327169374605,
+      "alive_dead_f1": 0.7870978171132318,
+      "n_gt_spells": 500,
+      "n_pred_spells": 316,
+      "spurious_spells_at50": 221,
+      "missed_spells_at50": 405,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.017543859649122806
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.029411764705882353
+        }
+      },
+      "false_dead_on_live": 0.003071208154788891,
+      "missed_dead": 0.501024814167031,
+      "turnover_recall_1s": 0.15228426395939088,
+      "dead_onset_f1_1s": 0.13215859030837004,
+      "dead_exit_f1_1s": 0.25663716814159293,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 143,
+      "hidden_turnover_recall_1s": 0.06993006993006994,
+      "no_ball_accuracy": 0.5789215084141998
+    },
+    {
+      "match": "J03WN1",
+      "condition": "burst1729",
+      "variant": "v3",
+      "missing_ball_fraction": 0.4025614399446175,
+      "spell_f1_mean": 0.3115681233933162,
+      "macro_f1": 0.7704521605107487,
+      "alive_dead_f1": 0.9034705331455791,
+      "n_gt_spells": 500,
+      "n_pred_spells": 278,
+      "spurious_spells_at50": 158,
+      "missed_spells_at50": 380,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.029239766081871343
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.04201680672268908
+        }
+      },
+      "false_dead_on_live": 0.01945098498032964,
+      "missed_dead": 0.17759346305203322,
+      "turnover_recall_1s": 0.12436548223350254,
+      "dead_onset_f1_1s": 0.40336134453781514,
+      "dead_exit_f1_1s": 0.3898305084745763,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 143,
+      "hidden_turnover_recall_1s": 0.04895104895104895,
+      "no_ball_accuracy": 0.7348518083071578
+    },
+    {
+      "match": "J03WN1",
+      "condition": "burst3253",
+      "variant": "v1",
+      "missing_ball_fraction": 0.40068239133659694,
+      "spell_f1_mean": 0.22871287128712875,
+      "macro_f1": 0.6191659471072407,
+      "alive_dead_f1": 0.7817395196180814,
+      "n_gt_spells": 500,
+      "n_pred_spells": 308,
+      "spurious_spells_at50": 221,
+      "missed_spells_at50": 413,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.0
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.008403361344537815
+        }
+      },
+      "false_dead_on_live": 0.003758573789432119,
+      "missed_dead": 0.5162467205946655,
+      "turnover_recall_1s": 0.1700507614213198,
+      "dead_onset_f1_1s": 0.1565217391304348,
+      "dead_exit_f1_1s": 0.2707423580786026,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 155,
+      "hidden_turnover_recall_1s": 0.05806451612903226,
+      "no_ball_accuracy": 0.5512949348565787
+    },
+    {
+      "match": "J03WN1",
+      "condition": "burst3253",
+      "variant": "v2",
+      "missing_ball_fraction": 0.40068239133659694,
+      "spell_f1_mean": 0.23611457036114572,
+      "macro_f1": 0.6391125470969915,
+      "alive_dead_f1": 0.7946455663702354,
+      "n_gt_spells": 500,
+      "n_pred_spells": 303,
+      "spurious_spells_at50": 214,
+      "missed_spells_at50": 411,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.0
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.008403361344537815
+        }
+      },
+      "false_dead_on_live": 0.004197317811544817,
+      "missed_dead": 0.4769485133362484,
+      "turnover_recall_1s": 0.16751269035532995,
+      "dead_onset_f1_1s": 0.15859030837004404,
+      "dead_exit_f1_1s": 0.30088495575221236,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 155,
+      "hidden_turnover_recall_1s": 0.05806451612903226,
+      "no_ball_accuracy": 0.5996015585056681
+    },
+    {
+      "match": "J03WN1",
+      "condition": "burst3253",
+      "variant": "v3",
+      "missing_ball_fraction": 0.40068239133659694,
+      "spell_f1_mean": 0.3086900129701686,
+      "macro_f1": 0.7641447855393358,
+      "alive_dead_f1": 0.9005399873419426,
+      "n_gt_spells": 500,
+      "n_pred_spells": 271,
+      "spurious_spells_at50": 154,
+      "missed_spells_at50": 383,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.023391812865497075
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.037815126050420166
+        }
+      },
+      "false_dead_on_live": 0.021966450707109116,
+      "missed_dead": 0.18132378662002624,
+      "turnover_recall_1s": 0.15228426395939088,
+      "dead_onset_f1_1s": 0.3690987124463519,
+      "dead_exit_f1_1s": 0.42424242424242425,
+      "excess_fragments_of_long_spells": 3,
+      "hidden_turnovers": 155,
+      "hidden_turnover_recall_1s": 0.05161290322580645,
+      "no_ball_accuracy": 0.7297120995751133
+    },
+    {
+      "match": "J03WN1",
+      "condition": "coordinate_noise",
+      "variant": "v1",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.30772946859903383,
+      "macro_f1": 0.49241338586921657,
+      "alive_dead_f1": 0.7014565973024456,
+      "n_gt_spells": 500,
+      "n_pred_spells": 328,
+      "spurious_spells_at50": 201,
+      "missed_spells_at50": 373,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.017543859649122806
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.03361344537815126
+        }
+      },
+      "false_dead_on_live": 0.0009652368486479371,
+      "missed_dead": 0.793629755137735,
+      "turnover_recall_1s": 0.2563451776649746,
+      "dead_onset_f1_1s": 0.30303030303030304,
+      "dead_exit_f1_1s": 0.1984732824427481,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "coordinate_noise",
+      "variant": "v2",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.32475728155339806,
+      "macro_f1": 0.5187042830924814,
+      "alive_dead_f1": 0.7130475643502322,
+      "n_gt_spells": 500,
+      "n_pred_spells": 324,
+      "spurious_spells_at50": 191,
+      "missed_spells_at50": 367,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.023391812865497075
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.04201680672268908
+        }
+      },
+      "false_dead_on_live": 0.0013454816678122761,
+      "missed_dead": 0.7497267162221251,
+      "turnover_recall_1s": 0.2563451776649746,
+      "dead_onset_f1_1s": 0.3458646616541354,
+      "dead_exit_f1_1s": 0.30303030303030304,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "coordinate_noise",
+      "variant": "v3",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.3371498172959805,
+      "macro_f1": 0.6073730790653454,
+      "alive_dead_f1": 0.7613266757789616,
+      "n_gt_spells": 500,
+      "n_pred_spells": 321,
+      "spurious_spells_at50": 184,
+      "missed_spells_at50": 363,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.023391812865497075
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.04201680672268908
+        }
+      },
+      "false_dead_on_live": 0.002120596106878044,
+      "missed_dead": 0.5825863576738085,
+      "turnover_recall_1s": 0.24111675126903553,
+      "dead_onset_f1_1s": 0.3580246913580247,
+      "dead_exit_f1_1s": 0.3354037267080745,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "slot_switches",
+      "variant": "v1",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.33341260404280615,
+      "macro_f1": 0.6716179288617754,
+      "alive_dead_f1": 0.8060147533915673,
+      "n_gt_spells": 500,
+      "n_pred_spells": 341,
+      "spurious_spells_at50": 204,
+      "missed_spells_at50": 363,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.023391812865497075
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.04201680672268908
+        }
+      },
+      "false_dead_on_live": 0.002062096903929684,
+      "missed_dead": 0.44687363358111065,
+      "turnover_recall_1s": 0.24873096446700507,
+      "dead_onset_f1_1s": 0.2513089005235602,
+      "dead_exit_f1_1s": 0.4,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "slot_switches",
+      "variant": "v2",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.33222748815165876,
+      "macro_f1": 0.6732739463123547,
+      "alive_dead_f1": 0.8072898489858449,
+      "n_gt_spells": 500,
+      "n_pred_spells": 344,
+      "spurious_spells_at50": 207,
+      "missed_spells_at50": 363,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.023391812865497075
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.04201680672268908
+        }
+      },
+      "false_dead_on_live": 0.0020182225017184143,
+      "missed_dead": 0.4432799519020551,
+      "turnover_recall_1s": 0.24873096446700507,
+      "dead_onset_f1_1s": 0.2383419689119171,
+      "dead_exit_f1_1s": 0.40625,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "slot_switches",
+      "variant": "v3",
+      "missing_ball_fraction": 0.0,
+      "spell_f1_mean": 0.42350000000000004,
+      "macro_f1": 0.829066317834329,
+      "alive_dead_f1": 0.9504081847167233,
+      "n_gt_spells": 500,
+      "n_pred_spells": 300,
+      "spurious_spells_at50": 124,
+      "missed_spells_at50": 324,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.02631578947368421
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.05263157894736842
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.08823529411764706
+        }
+      },
+      "false_dead_on_live": 0.008233762814981645,
+      "missed_dead": 0.0890085264538697,
+      "turnover_recall_1s": 0.2182741116751269,
+      "dead_onset_f1_1s": 0.6066350710900474,
+      "dead_exit_f1_1s": 0.583732057416268,
+      "excess_fragments_of_long_spells": 2,
+      "hidden_turnovers": 0,
+      "hidden_turnover_recall_1s": null,
+      "no_ball_accuracy": null
+    },
+    {
+      "match": "J03WN1",
+      "condition": "combined",
+      "variant": "v1",
+      "missing_ball_fraction": 0.40881316181716715,
+      "spell_f1_mean": 0.201980198019802,
+      "macro_f1": 0.41107517116937836,
+      "alive_dead_f1": 0.676088794821456,
+      "n_gt_spells": 500,
+      "n_pred_spells": 308,
+      "spurious_spells_at50": 228,
+      "missed_spells_at50": 420,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.0
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.011695906432748537
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.01680672268907563
+        }
+      },
+      "false_dead_on_live": 0.0002632464132676192,
+      "missed_dead": 0.8947720813292523,
+      "turnover_recall_1s": 0.16751269035532995,
+      "dead_onset_f1_1s": 0.07865168539325842,
+      "dead_exit_f1_1s": 0.11299435028248588,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 171,
+      "hidden_turnover_recall_1s": 0.08771929824561403,
+      "no_ball_accuracy": 0.36833010782416364
+    },
+    {
+      "match": "J03WN1",
+      "condition": "combined",
+      "variant": "v2",
+      "missing_ball_fraction": 0.40881316181716715,
+      "spell_f1_mean": 0.225653798256538,
+      "macro_f1": 0.47405766882223954,
+      "alive_dead_f1": 0.7004407092343958,
+      "n_gt_spells": 500,
+      "n_pred_spells": 303,
+      "spurious_spells_at50": 214,
+      "missed_spells_at50": 411,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.017543859649122806
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.02100840336134454
+        }
+      },
+      "false_dead_on_live": 0.0005118680257981485,
+      "missed_dead": 0.7982755793616091,
+      "turnover_recall_1s": 0.17258883248730963,
+      "dead_onset_f1_1s": 0.1348314606741573,
+      "dead_exit_f1_1s": 0.19209039548022597,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 171,
+      "hidden_turnover_recall_1s": 0.0935672514619883,
+      "no_ball_accuracy": 0.4373963229195466
+    },
+    {
+      "match": "J03WN1",
+      "condition": "combined",
+      "variant": "v3",
+      "missing_ball_fraction": 0.40881316181716715,
+      "spell_f1_mean": 0.23645320197044334,
+      "macro_f1": 0.6162112257739792,
+      "alive_dead_f1": 0.7780011651683211,
+      "n_gt_spells": 500,
+      "n_pred_spells": 312,
+      "spurious_spells_at50": 219,
+      "missed_spells_at50": 407,
+      "short_recall": {
+        "1": {
+          "n": 76,
+          "recall": 0.013157894736842105
+        },
+        "2": {
+          "n": 171,
+          "recall": 0.017543859649122806
+        },
+        "3": {
+          "n": 238,
+          "recall": 0.025210084033613446
+        }
+      },
+      "false_dead_on_live": 0.003948696199014288,
+      "missed_dead": 0.527410362920857,
+      "turnover_recall_1s": 0.1598984771573604,
+      "dead_onset_f1_1s": 0.12334801762114538,
+      "dead_exit_f1_1s": 0.28318584070796465,
+      "excess_fragments_of_long_spells": 1,
+      "hidden_turnovers": 171,
+      "hidden_turnover_recall_1s": 0.09941520467836257,
+      "no_ball_accuracy": 0.6089991705833564
+    }
+  ],
+  "seconds": 341.40734460001113,
+  "frozen_candidate": {
+    "frozen_utc": "2026-11-13T21:57:05.892022+00:00",
+    "files": {
+      "src/possession/data.py": "9a20a5cbb359a5be5ef3bba9a430ea1c983a87bfa462a1e509ade370e554c518",
+      "src/possession/official.py": "6ee976c57eee84cac94fce1d184c92893595a12fa338904121cccaa926811455",
+      "src/possession/preprocessing.py": "d4fed98dd865630900c9dcd8123f278a24f75e5aa64d9c3a41b27f5283495889",
+      "src/possession/features.py": "7ff2f982ad3321fc3ddec5fe29df60b66b2563f17f08b0246f9affbbbd3702d0",
+      "src/possession/tagging.py": "dafece2bfac357bce816f1ff6bcbb2961de7475a7c60b29620f06b45d6bfbc2d",
+      "src/possession/restarts.py": "89b57752ee5d29605fc0e16c89f0340e237752e5f7cff2a8eadd19047008d227",
+      "src/possession/temporal.py": "05246be25ec4ad620f7150b508c689149457405224a1d3d696ef366c644d158d",
+      "src/possession/pipeline.py": "2d35ba88ac3d432fb452ec1c4930c4ca76179c09ce3391cfb681f0d09903339c",
+      "src/possession/v2.py": "020a0e3d2d7ededf49f7ec8ff189df7d38abf26a5ed86c7febe4917e91eae83e",
+      "src/possession/learned_dead.py": "f8847f8a63cb5555bfc2a2f673c228da196fb6004a591b443bf0917bc68ce5f3",
+      "src/possession/live_dead_experiment.py": "5a27c8f36bd61b43b71e585a2d98b59aaedb15b8c15ae3b03218d22b730261a8",
+      "src/possession/v3.py": "d92836a3550fcb99ab329f73404bdcb6520ed4753901002d56bdca9da1368639",
+      "src/possession/final_scenarios.py": "a11f23dce392261125834cb1f97aba4ccb3322d55eebdcaf5b85af6b657e3224",
+      "configs/audit_v3.json": "c36e2c81e0b2a64a2330dd000071f8f8d8e65570ac2290107e19fd5e2668eb53",
+      "models/ydse_live_dead.json": "0562bf7f6850030346193e88484439b7aa8e0ffb05d273ec035c76e9cd18e4dd"
+    },
+    "training_match": "J03WOH (development)",
+    "new_evaluation_matches": [
+      "J03WQQ",
+      "J03WN1"
+    ],
+    "selected_mode": "blend",
+    "decision_basis": "Development half split plus fixture-valid stress guard; no new match outcomes read",
+    "restriction": "Do not refit/change this candidate after inspecting the new match outcomes",
+    "hash_method": "UTF-8 text normalized to LF",
+    "formatting_revision": "Line-ending-only hash portability fix before reading new match or synthetic holdout outcomes; original byte lock preserved in candidate_freeze_initial_bytes.json"
+  },
+  "training_match": "J03WOH only; not included as evaluation",
+  "labels": "DFL BallPossession only while BallStatus=1; BallStatus=0 is D; unknown live owner is X",
+  "tags": "No Smart Tagging is supplied for these matches; no XML tactical prior used in any model",
+  "warning": "Two other matches and correlated perturbations; no competition score or broad generalization claim"
+}

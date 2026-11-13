@@ -53,14 +53,21 @@ def main():
     parser.add_argument('--data-dir', type=Path, default=Path(os.environ.get('MTAH_DATA_DIR', ROOT / 'data')))
     parser.add_argument('--config', type=Path, default=ROOT / 'configs' / 'final.json')
     parser.add_argument('--out', type=Path, default=ROOT / 'submission' / 'YDSE.csv')
-    parser.add_argument('--model',choices=['v1','v2'],default='v1')
+    parser.add_argument('--model',choices=['v1','v2','v3'],default='v1')
     args = parser.parse_args()
     args.config=args.config.resolve()
     if args.model=='v2' and args.out.resolve()==(ROOT/'submission/YDSE.csv').resolve():
         raise ValueError('V2 must use a candidate path; preserved YDSE.csv may not be overwritten')
+    protected=['submission/YDSE.csv','submission/YDSE_reproduced.csv',
+               'submission/candidates/YDSE_v2.csv','submission/candidates/YDSE_v2_reproduced.csv']
+    if args.model=='v3' and args.out.resolve() in [(ROOT/p).resolve() for p in protected]:
+        raise ValueError('V3 must use a separate path; V1 and V2 artifacts are protected')
     t = time.perf_counter()
     config = json.loads(args.config.read_text(encoding='utf-8'))
-    if args.model=='v2':
+    if args.model=='v3':
+        from possession.v3 import run as run_v3
+        labels,stats=run_v3(args.data_dir,config)
+    elif args.model=='v2':
         from possession.v2 import run as run_v2
         labels,stats=run_v2(args.data_dir,config)
     else:
@@ -79,6 +86,12 @@ def main():
     input_hashes={key:file_hash(assets[key]) for key in ['atd_meta','atd_raw','smart_tagging']}
     code_files=sorted(list((ROOT/'src').rglob('*.py'))+list((ROOT/'upstream').glob('*.py'))+
                       [Path(__file__),args.config])
+    learned_model_hash=None
+    if args.model=='v3':
+        model_path=Path(config['dead_model_path'])
+        if not model_path.is_absolute():model_path=ROOT/model_path
+        code_files.append(model_path)
+        learned_model_hash=file_hash(model_path)
     code_digest=hashlib.sha256()
     for path in code_files:
         code_digest.update((str(path.relative_to(ROOT)) if path.is_relative_to(ROOT) else path.name).replace('\\','/').encode())
@@ -86,6 +99,7 @@ def main():
     record = dict(runtime_s=time.perf_counter()-t, python=platform.python_version(),model=args.model,
                   peak_working_set_mb=peak_memory_mb(), input_sha256=input_hashes,
                   code_and_config_sha256=code_digest.hexdigest(),
+                  learned_model_sha256=learned_model_hash,
                   dependencies={p: importlib.metadata.version(p) for p in ['numpy', 'pandas']},
                   code_commit=commit.stdout.strip() if commit.returncode == 0 else 'uncommitted',
                   working_tree_dirty=bool(dirty.stdout.strip()), config=config, stats=stats,

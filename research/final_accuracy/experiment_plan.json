@@ -1,0 +1,20 @@
+{
+  "date_local": "2026-11-14",
+  "starting_revision": "e329912c9f6db186fb946a1e87d98f173f1c81dc",
+  "development_matches": ["J03WOH"],
+  "development_status": "Previously evaluated match is now explicitly development/training data, never described as untouched holdout again",
+  "new_evaluation_matches": ["J03WQQ", "J03WN1"],
+  "selection_rule": "Preselected from the licensed article: one small additional 2. Bundesliga file, one Bundesliga match with different teams/stadium; chosen before reading tracking outcomes",
+  "primary_dataset": "https://doi.org/10.6084/m9.figshare.28196177.v1",
+  "licence": "CC BY 4.0, verified through primary Figshare metadata",
+  "evaluation_conditions": ["clean", "burst1729", "burst3253", "coordinate_noise", "slot_switches", "combined"],
+  "evaluation_seeds": {"burst1729": 1729, "burst3253": 3253, "coordinate_noise": 7117, "slot_switches": 9011, "combined": 14027},
+  "coordinate_noise_sd_metres": 0.05,
+  "slot_switch_period_seconds": 20,
+  "ball_missing_probability": 0.41,
+  "mean_missing_burst_frames": 40,
+  "candidate_requirement": "No V3 unless development tests demonstrate a concrete opportunity; freeze inference source, config and weights before reading new evaluation outcomes",
+  "learning_scope": "Small externally supervised LIVE/DEAD prototype; no competition labels, competition pseudo-label supervision or competition model selection",
+  "new_synthetic_split": {"development_seeds": [31, 67], "holdout_seeds": [4093, 16381, 65521]},
+  "selection_policy": "Record per-match regressions and short-spell errors; no refitting on evaluation matches. Do not promote or overwrite any submission automatically."
+}

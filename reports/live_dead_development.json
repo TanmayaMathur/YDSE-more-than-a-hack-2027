@@ -1,0 +1,105 @@
+{
+  "training": {
+    "match_id": "J03WOH",
+    "title": "Fortuna D\u00fcsseldorf:SSV Jahn Regensburg",
+    "rows": 137214,
+    "fps": 25,
+    "pitch": [
+      105.0,
+      68.0
+    ],
+    "players": 39,
+    "source": "https://doi.org/10.6084/m9.figshare.28196177.v1",
+    "licence": "CC BY 4.0",
+    "target_fields": "BallStatus and BallPossession, isolated from Tracking",
+    "unknown_reference_frames": 0
+  },
+  "training_frames": 41655,
+  "validation": "Second half of development match; correlated within-match development, not holdout",
+  "parameters": "Fixed l2=.05; 18 features; 1-in-5 training frames; clean/burst/noise views",
+  "results": [
+    {
+      "condition": "clean",
+      "mode": "v2",
+      "spellF1": 0.4163009404388715,
+      "macroF1": 0.6895475789854301,
+      "alive_dead_f1": 0.8116733001263138,
+      "pred_spells": 145,
+      "reference_spells": 174
+    },
+    {
+      "condition": "clean",
+      "mode": "learned",
+      "spellF1": 0.5070234113712375,
+      "macroF1": 0.881650101691298,
+      "alive_dead_f1": 0.9832851316277346,
+      "pred_spells": 125,
+      "reference_spells": 174
+    },
+    {
+      "condition": "clean",
+      "mode": "blend",
+      "spellF1": 0.47444794952681385,
+      "macroF1": 0.8257028094171615,
+      "alive_dead_f1": 0.9243587649076948,
+      "pred_spells": 143,
+      "reference_spells": 174
+    },
+    {
+      "condition": "burst1729",
+      "mode": "v2",
+      "spellF1": 0.33066666666666666,
+      "macroF1": 0.6440663126196129,
+      "alive_dead_f1": 0.7887712306230739,
+      "pred_spells": 126,
+      "reference_spells": 174
+    },
+    {
+      "condition": "burst1729",
+      "mode": "learned",
+      "spellF1": 0.4549295774647887,
+      "macroF1": 0.8526916541250372,
+      "alive_dead_f1": 0.9606924974518812,
+      "pred_spells": 110,
+      "reference_spells": 174
+    },
+    {
+      "condition": "burst1729",
+      "mode": "blend",
+      "spellF1": 0.3813333333333333,
+      "macroF1": 0.7887628521546152,
+      "alive_dead_f1": 0.9009874494902191,
+      "pred_spells": 126,
+      "reference_spells": 174
+    },
+    {
+      "condition": "coordinate_noise",
+      "mode": "v2",
+      "spellF1": 0.38026315789473686,
+      "macroF1": 0.5106062793158036,
+      "alive_dead_f1": 0.7122924004724229,
+      "pred_spells": 130,
+      "reference_spells": 174
+    },
+    {
+      "condition": "coordinate_noise",
+      "mode": "learned",
+      "spellF1": 0.4859934853420196,
+      "macroF1": 0.832441931438675,
+      "alive_dead_f1": 0.9300233164175011,
+      "pred_spells": 133,
+      "reference_spells": 174
+    },
+    {
+      "condition": "coordinate_noise",
+      "mode": "blend",
+      "spellF1": 0.41661341853035144,
+      "macroF1": 0.6313739391617988,
+      "alive_dead_f1": 0.7728066792204552,
+      "pred_spells": 139,
+      "reference_spells": 174
+    }
+  ],
+  "seconds": 62.8967413000064,
+  "warning": "No new evaluation match labels or competition labels consumed"
+}

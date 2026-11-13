@@ -1,0 +1,36 @@
+[
+  {
+    "match": "J03WQQ",
+    "periods": {
+      "firstHalf": {
+        "first": 10000,
+        "last": 79203,
+        "count": 69204
+      },
+      "secondHalf": {
+        "first": 100000,
+        "last": 173140,
+        "count": 73141
+      }
+    },
+    "continuous_ball_indices": true,
+    "all_ball_timestamps_40ms": true
+  },
+  {
+    "match": "J03WN1",
+    "periods": {
+      "firstHalf": {
+        "first": 10000,
+        "last": 79287,
+        "count": 69288
+      },
+      "secondHalf": {
+        "first": 100000,
+        "last": 172272,
+        "count": 72273
+      }
+    },
+    "continuous_ball_indices": true,
+    "all_ball_timestamps_40ms": true
+  }
+]

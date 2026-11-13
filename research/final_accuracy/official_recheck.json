@@ -1,0 +1,84 @@
+{
+  "checked_local_date": "2026-11-14",
+  "repository": "https://github.com/metrica-sports/more-than-a-hack-2027",
+  "head": "f8f2629ff1e0985f81d7e59d8413678514ee1530",
+  "reachable_commits": 6,
+  "documents": [
+    {
+      "file": "RULES.md",
+      "url": "https://github.com/metrica-sports/more-than-a-hack-2027/blob/main/RULES.md",
+      "modified_date": "2026-10-23T13:42:40Z",
+      "read_success": true
+    },
+    {
+      "file": "FAQ.md",
+      "url": "https://github.com/metrica-sports/more-than-a-hack-2027/blob/main/FAQ.md",
+      "modified_date": "2026-10-23T13:42:40Z",
+      "read_success": true
+    },
+    {
+      "file": "CHALLENGE.md",
+      "url": "https://github.com/metrica-sports/more-than-a-hack-2027/blob/main/CHALLENGE.md",
+      "modified_date": "2026-10-23T13:42:40Z",
+      "read_success": true
+    },
+    {
+      "file": "DATA.md",
+      "url": "https://github.com/metrica-sports/more-than-a-hack-2027/blob/main/DATA.md",
+      "modified_date": "2026-10-23T13:42:40Z",
+      "read_success": true
+    },
+    {
+      "file": "EVALUATION.md",
+      "url": "https://github.com/metrica-sports/more-than-a-hack-2027/blob/main/EVALUATION.md",
+      "modified_date": "2026-10-23T13:42:40Z",
+      "read_success": true
+    },
+    {
+      "file": "SUBMISSION.md",
+      "url": "https://github.com/metrica-sports/more-than-a-hack-2027/blob/main/SUBMISSION.md",
+      "modified_date": "2026-10-23T13:42:40Z",
+      "read_success": true
+    },
+    {
+      "file": "evaluation/possession_metrics.py",
+      "url": "https://github.com/metrica-sports/more-than-a-hack-2027/blob/main/evaluation/possession_metrics.py",
+      "modified_date": "2026-09-24T08:56:38Z",
+      "read_success": true
+    }
+  ],
+  "repository_features": {
+    "issues": false,
+    "pull_requests": false,
+    "discussions": false
+  },
+  "queries": [
+    {
+      "endpoint": "issues?state=all&per_page=100",
+      "result": "HTTP success, zero returned"
+    },
+    {
+      "endpoint": "issues/comments?per_page=100",
+      "result": "404; not a zero result"
+    },
+    {
+      "endpoint": "pulls?state=all&per_page=100",
+      "result": "404; not a zero result"
+    },
+    {
+      "endpoint": "search/issues?q=repo:metrica-sports/more-than-a-hack-2027 is:pr",
+      "result": "HTTP success, total_count 0"
+    },
+    {
+      "endpoint": "pulls/comments?per_page=100",
+      "result": "HTTP success, zero returned"
+    },
+    {
+      "endpoint": "comments?per_page=100",
+      "result": "Connector unsupported; initial sandbox CLI network failed; authorized network CLI retry returned [] successfully"
+    }
+  ],
+  "review_scope": "No accessible PR found; no per-PR reviews could be enumerated. Zero accessible PR search is not proof hidden/private conversations do not exist.",
+  "clarifications": "No new accessible maintainer conversation; current RULES/FAQ are the authoritative public clarification",
+  "data_terms": "No signed agreement discovered in local workspace filename scan. Drive access invitation is not data-sharing permission. FAQ prohibits restricted material disclosure to hosted LLMs; processing stays local."
+}

@@ -1,0 +1,15 @@
+{
+  "seeds": [
+    27011,
+    36007,
+    49157
+  ],
+  "families": [
+    "trajectory_corruption",
+    "slot_switch",
+    "rapid_turnovers",
+    "conflicting_evidence",
+    "strong_noise_2m"
+  ],
+  "role": "Additional post-freeze diagnostics, not the preregistered holdout or model selection"
+}
