@@ -1,5 +1,10 @@
 # YDSE - More Than a Hack 2027 possession
 
+Public submission repository:
+[TanmayaMathur/YDSE-more-than-a-hack-2027](https://github.com/TanmayaMathur/YDSE-more-than-a-hack-2027).
+Publication update: 17 November 2026. Historical audit documents retain their
+14 November status; the frozen model and CSV are unchanged.
+
 **Recommended frozen submission: V3.** The release audit selects the existing
 50% learned/heuristic dead-ball blend on the official spellF1 objective. V3
 improved spellF1 in all twelve previously evaluated views of two external
@@ -8,8 +13,9 @@ untouched holdouts. False D and missed-handover risks remain documented.
 
 See [release decision](reports/release_readiness_audit.md),
 [final technical document](docs/release_technical_report.md), and
-[submission checklist](docs/SUBMISSION_CHECKLIST.md). No candidate is overwritten,
-published or uploaded by this repository's release preparation.
+[submission checklist](docs/SUBMISSION_CHECKLIST.md). The source is published;
+candidate CSVs, restricted assets and private diagnostics are excluded. The
+team-named CSV and PDF are supplied separately for the official form upload.
 
 ## Clean Windows reproduction
 
@@ -92,10 +98,11 @@ it does not overwrite the original V1 PDF:
 
 Official submission requires the registered team name, team-named CSV, public
 code URL and short PDF/Markdown through the emailed Google Form. The public
-deadline is **17 November 2026**; **cutoff time and timezone are unverified**.
-Signed enrolment terms and the private form URL still need participant review.
-Source publication and form upload require explicit approval. No submission
-form, message or remote repository is changed by these local commands.
+deadline is **17 November 2026, 23:59 CET**, confirmed by the organiser's
+13 November submission-instructions email. This is **18 November, 04:29 IST**.
+The Google Form link is distributed to registered participants by email.
+Signed enrolment terms remain participant verification. Source publication was
+authorized on 17 November; no submission form has been sent by this project.
 
 ## Preserved history
 
